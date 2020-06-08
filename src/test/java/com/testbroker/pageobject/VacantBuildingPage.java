@@ -39,6 +39,9 @@ public class VacantBuildingPage {
 	@FindBy(xpath="//div[@class='v-window-item v-window-item--active']//div[contains(text(),'No')]")
 	private WebElement noButton;
 	
+	@FindBy(xpath="//div[@class='v-window-item v-window-item--active']//div[contains(text(),'Yes')]")
+	private WebElement yesButton;
+	
 	@FindBy(xpath="//div[@class='v-input theme--light v-text-field v-text-field--filled v-text-field--is-booted v-text-field--enclosed']//div[@class='v-text-field__slot']")
 	private WebElement fullnamefield;
 	@FindBy(xpath="//div[@class='v-input theme--light v-text-field v-text-field--filled v-text-field--is-booted v-text-field--enclosed']//input")
@@ -63,6 +66,10 @@ public class VacantBuildingPage {
 	
 	@FindBy(xpath="//div[@class='v-window-item v-window-item--active']//span[text()='Zip']/../..//input")
 	private WebElement zipfield;
+	
+	
+	@FindBy(xpath="//span[text()='CA$ Target price']/..//following-sibling::input")
+	private WebElement targetPriceField;
 	
 	 WebDriver driver;
 
@@ -115,6 +122,13 @@ public class VacantBuildingPage {
 	public void noButtonClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, noButton);
 		noButton.click();
+	}
+	
+	
+	@Step("1.Click on Proceed to Dashboard step....")
+	public void yesButtonClick(){
+		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, yesButton);
+		yesButton.click();
 	}
 	@Step("1.Click on Proceed to Dashboard step....")
 	public void fullName(String fullname ) throws InterruptedException{
@@ -174,4 +188,10 @@ public class VacantBuildingPage {
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, zipfield);
 		zipfield.sendKeys(zip);
 		}
+	public void setTargetPrice(String value) throws InterruptedException {
+		WaitStatementLib.threadSleepOfEightSec();
+		WaitStatementLib.explicitlyWaitForClickable(driver, 20, targetPriceField);
+		targetPriceField.sendKeys(value);
+		
+	}
 }

@@ -34,7 +34,6 @@ public class LoginTest extends BaseLib {
 		logger.info("Entered password");
 		lp.LoginClick();
 		logger.info("User has clicked on login Button");
-
 		lp.authorizeButton();
 		logger.info("User has clicked on authorize Button");
 		HomePage home = new HomePage(driver);
@@ -54,7 +53,8 @@ public class LoginTest extends BaseLib {
 		//logger.info("User has clicked on date passed from the excel sheet");
 		//vacantbuilding.verifytimeBetween();
 		vacantbuilding.nextButton();
-		vacantbuilding.noButtonClick();
+		vacantbuilding.yesButtonClick();
+		vacantbuilding.setTargetPrice(ExcelUtilityLib.getKeyValue(LoginCredentials, "TargetFieldKey", "TargetFieldValue"));
 		vacantbuilding.nextButton();
 		vacantbuilding.fullName(ExcelUtilityLib.getKeyValue(LoginCredentials, "FullName", "Valid-fullname"));
 		vacantbuilding.addressField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Address", "Valid-address"));
@@ -82,6 +82,7 @@ public class LoginTest extends BaseLib {
 		vacantbuilding.nextButton();
 		cover.insuranceOption();
 		cover.lossValue();
+		cover.mortageOrLoan();
 		vacantbuilding.nextButton();
 		cover.generalLiabilityCover();
 		cover.getQuote();

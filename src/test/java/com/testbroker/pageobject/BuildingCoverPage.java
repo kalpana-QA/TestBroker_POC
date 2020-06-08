@@ -49,7 +49,7 @@ public class BuildingCoverPage {
 	@FindBy(xpath="//div[@id='c2ms5d77742985f6c3_88132932']//button[1]")
 	private WebElement loss;
 	
-	@FindBy(xpath="(//div[@class='v-window-item v-window-item--active']//div[contains(text(),'0')])[2]")
+	@FindBy(xpath="(//div[@class='v-window-item v-window-item--active']//div[contains(text(),'0')])[2] | (//div[contains(text(),'0')])[2]/../..")
 	private WebElement mortageorloan;
 	
 	@FindBy(xpath="//div[@class='v-window-item v-window-item--active']//div[@class='v-card__text']//button[2]")

@@ -58,6 +58,7 @@ public class LoginPage  {
 	@Step("4.Click on login button to land on login screen step....")
 	public void LoginClick(){
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver1, 20, loginButton);
+		
 		loginButton.click();
 	}
 	
