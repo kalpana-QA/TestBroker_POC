@@ -25,8 +25,9 @@ public class HomePage {
 		PageFactory.initElements(driver, this);
 	}
 	@Step("1.Click on Proceed to Dashboard step....")
-	public void getQuotesClick(){
-		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, getAQuotes);
+	public void getQuotesClick() throws InterruptedException{
+		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, getAQuotes);
+		WaitStatementLib.threadSleepOfEightSec();
 		getAQuotes.click();;
 
 	}

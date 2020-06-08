@@ -38,3 +38,454 @@
 2020-06-08 01:47:01,302 - ebanking -INFO - User has clicked on next Button
 2020-06-08 01:47:05,020 - ebanking -INFO - User has clicked on vacant building Icon
 2020-06-08 01:47:05,134 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:41:40,492 - ebanking -INFO - URL is opened
+2020-06-08 10:42:56,419 - ebanking -INFO - Entered username
+2020-06-08 10:42:57,600 - ebanking -INFO - Entered password
+2020-06-08 10:42:57,684 - ebanking -INFO - User has clicked on login Button
+2020-06-08 10:43:07,760 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 10:43:16,650 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 10:43:17,746 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:43:21,063 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 10:43:21,191 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:43:21,328 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 10:43:21,433 - ebanking -INFO - User has clicked on date passed from the excel sheet
+2020-06-08 10:52:02,972 - ebanking -INFO - URL is opened
+2020-06-08 10:52:28,348 - ebanking -INFO - Entered username
+2020-06-08 10:52:29,510 - ebanking -INFO - Entered password
+2020-06-08 10:52:29,566 - ebanking -INFO - User has clicked on login Button
+2020-06-08 10:52:39,644 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 10:52:46,658 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 10:52:47,245 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:52:50,463 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 10:52:50,578 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:52:51,210 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 10:52:51,291 - ebanking -INFO - User has clicked on date passed from the excel sheet
+2020-06-08 10:57:03,568 - ebanking -INFO - URL is opened
+2020-06-08 10:58:11,218 - ebanking -INFO - Entered username
+2020-06-08 10:58:12,366 - ebanking -INFO - Entered password
+2020-06-08 10:58:12,421 - ebanking -INFO - User has clicked on login Button
+2020-06-08 10:58:22,481 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 10:58:29,865 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 10:58:30,464 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:58:33,634 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 10:58:33,784 - ebanking -INFO - User has clicked on next Button
+2020-06-08 10:58:33,921 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:03:28,723 - ebanking -INFO - URL is opened
+2020-06-08 11:04:35,628 - ebanking -INFO - Entered username
+2020-06-08 11:04:36,791 - ebanking -INFO - Entered password
+2020-06-08 11:04:36,842 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:04:46,893 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:04:53,650 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:04:54,756 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:04:57,445 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:04:57,570 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:04:57,839 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:07:41,986 - ebanking -INFO - URL is opened
+2020-06-08 11:08:24,298 - ebanking -INFO - Entered username
+2020-06-08 11:08:25,493 - ebanking -INFO - Entered password
+2020-06-08 11:08:25,577 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:08:35,636 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:08:43,576 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:08:44,679 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:08:47,885 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:08:48,023 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:08:48,308 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:10:35,790 - ebanking -INFO - URL is opened
+2020-06-08 11:11:31,191 - ebanking -INFO - Entered username
+2020-06-08 11:11:32,349 - ebanking -INFO - Entered password
+2020-06-08 11:11:32,405 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:11:42,459 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:11:51,764 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:11:52,343 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:11:55,119 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:11:55,259 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:11:55,548 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:17:26,879 - ebanking -INFO - URL is opened
+2020-06-08 11:18:11,439 - ebanking -INFO - Entered username
+2020-06-08 11:18:12,599 - ebanking -INFO - Entered password
+2020-06-08 11:18:12,671 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:18:22,724 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:18:28,179 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:18:29,307 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:18:32,998 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:18:33,124 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:18:33,395 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:20:30,836 - ebanking -INFO - URL is opened
+2020-06-08 11:21:11,413 - ebanking -INFO - Entered username
+2020-06-08 11:21:12,562 - ebanking -INFO - Entered password
+2020-06-08 11:21:12,616 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:21:22,675 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:21:28,429 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:21:29,045 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:21:32,244 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:21:32,379 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:21:33,136 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:27:11,389 - ebanking -INFO - URL is opened
+2020-06-08 11:28:08,911 - ebanking -INFO - Entered username
+2020-06-08 11:28:10,057 - ebanking -INFO - Entered password
+2020-06-08 11:28:10,125 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:28:20,196 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:28:29,105 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:28:29,720 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:28:32,938 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:28:33,051 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:28:33,814 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:31:46,155 - ebanking -INFO - URL is opened
+2020-06-08 11:32:29,217 - ebanking -INFO - Entered username
+2020-06-08 11:32:30,371 - ebanking -INFO - Entered password
+2020-06-08 11:32:30,439 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:32:40,512 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:32:45,997 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:32:47,114 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:32:49,821 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:32:49,949 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:32:50,750 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:35:10,431 - ebanking -INFO - URL is opened
+2020-06-08 11:35:50,314 - ebanking -INFO - Entered username
+2020-06-08 11:35:51,459 - ebanking -INFO - Entered password
+2020-06-08 11:35:51,535 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:36:01,612 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:36:09,852 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:36:10,433 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:36:13,657 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:36:13,792 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:36:14,565 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:39:22,315 - ebanking -INFO - URL is opened
+2020-06-08 11:40:03,638 - ebanking -INFO - Entered username
+2020-06-08 11:40:04,787 - ebanking -INFO - Entered password
+2020-06-08 11:40:04,852 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:40:14,912 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:40:23,358 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:40:24,946 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:40:27,629 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:40:27,745 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:40:28,469 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:43:45,663 - ebanking -INFO - URL is opened
+2020-06-08 11:44:02,555 - ebanking -INFO - Entered username
+2020-06-08 11:44:03,822 - ebanking -INFO - Entered password
+2020-06-08 11:44:03,874 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:44:13,937 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:44:23,453 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:44:24,031 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:44:27,203 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:44:27,315 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:44:28,063 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 11:47:30,920 - ebanking -INFO - URL is opened
+2020-06-08 11:48:06,046 - ebanking -INFO - Entered username
+2020-06-08 11:48:07,220 - ebanking -INFO - Entered password
+2020-06-08 11:48:07,286 - ebanking -INFO - User has clicked on login Button
+2020-06-08 11:48:17,338 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 11:48:23,322 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 11:48:23,912 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:48:27,079 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 11:48:27,230 - ebanking -INFO - User has clicked on next Button
+2020-06-08 11:48:27,545 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:11:21,044 - ebanking -INFO - URL is opened
+2020-06-08 12:11:44,125 - ebanking -INFO - Entered username
+2020-06-08 12:11:45,313 - ebanking -INFO - Entered password
+2020-06-08 12:11:45,386 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:11:55,435 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:12:01,163 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:12:01,744 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:12:05,461 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:12:05,568 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:12:06,301 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:15:21,069 - ebanking -INFO - URL is opened
+2020-06-08 12:15:45,968 - ebanking -INFO - Entered username
+2020-06-08 12:15:47,146 - ebanking -INFO - Entered password
+2020-06-08 12:15:47,206 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:15:57,255 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:16:05,509 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:16:06,085 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:16:09,274 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:16:09,402 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:16:09,648 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:22:12,888 - ebanking -INFO - URL is opened
+2020-06-08 12:22:55,368 - ebanking -INFO - Entered username
+2020-06-08 12:22:56,567 - ebanking -INFO - Entered password
+2020-06-08 12:22:56,623 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:23:06,677 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:23:17,752 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:23:18,321 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:23:21,538 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:23:21,662 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:23:21,958 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:26:22,229 - ebanking -INFO - URL is opened
+2020-06-08 12:27:02,465 - ebanking -INFO - Entered username
+2020-06-08 12:27:03,702 - ebanking -INFO - Entered password
+2020-06-08 12:27:03,762 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:27:13,815 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:27:23,550 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:27:24,836 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:27:27,590 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:27:27,724 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:27:28,504 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:29:44,615 - ebanking -INFO - URL is opened
+2020-06-08 12:30:44,750 - ebanking -INFO - Entered username
+2020-06-08 12:30:45,895 - ebanking -INFO - Entered password
+2020-06-08 12:30:45,953 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:30:56,007 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:32:41,846 - ebanking -INFO - URL is opened
+2020-06-08 12:34:39,241 - ebanking -INFO - Entered username
+2020-06-08 12:34:40,391 - ebanking -INFO - Entered password
+2020-06-08 12:34:40,443 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:34:50,522 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:34:57,878 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:34:59,485 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:35:05,280 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:35:05,400 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:35:05,633 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:40:41,710 - ebanking -INFO - URL is opened
+2020-06-08 12:41:30,857 - ebanking -INFO - Entered username
+2020-06-08 12:41:32,007 - ebanking -INFO - Entered password
+2020-06-08 12:41:32,074 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:41:42,128 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:41:49,927 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:41:51,002 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:41:54,202 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:41:54,332 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:41:55,094 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:44:26,185 - ebanking -INFO - URL is opened
+2020-06-08 12:45:21,982 - ebanking -INFO - Entered username
+2020-06-08 12:45:23,127 - ebanking -INFO - Entered password
+2020-06-08 12:45:23,192 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:45:33,251 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:45:45,342 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:45:45,938 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:45:48,685 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:45:48,802 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:45:49,553 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 12:50:39,428 - ebanking -INFO - URL is opened
+2020-06-08 12:53:00,896 - ebanking -INFO - URL is opened
+2020-06-08 12:54:42,949 - ebanking -INFO - URL is opened
+2020-06-08 12:55:53,392 - ebanking -INFO - Entered username
+2020-06-08 12:55:54,537 - ebanking -INFO - Entered password
+2020-06-08 12:55:54,594 - ebanking -INFO - User has clicked on login Button
+2020-06-08 12:56:04,647 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 12:56:10,626 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 12:56:11,221 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:56:14,387 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 12:56:14,501 - ebanking -INFO - User has clicked on next Button
+2020-06-08 12:56:14,755 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 13:11:06,320 - ebanking -INFO - URL is opened
+2020-06-08 13:12:21,879 - ebanking -INFO - Entered username
+2020-06-08 13:12:23,036 - ebanking -INFO - Entered password
+2020-06-08 13:12:23,094 - ebanking -INFO - User has clicked on login Button
+2020-06-08 13:12:33,145 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 13:12:42,296 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 13:12:43,405 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:12:47,126 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 13:12:47,241 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:12:47,983 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 13:16:18,054 - ebanking -INFO - URL is opened
+2020-06-08 13:17:06,299 - ebanking -INFO - Entered username
+2020-06-08 13:17:07,464 - ebanking -INFO - Entered password
+2020-06-08 13:17:07,532 - ebanking -INFO - User has clicked on login Button
+2020-06-08 13:17:17,586 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 13:17:25,981 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 13:17:27,060 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:17:30,783 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 13:17:30,912 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:17:31,667 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 13:21:16,079 - ebanking -INFO - URL is opened
+2020-06-08 13:22:20,269 - ebanking -INFO - Entered username
+2020-06-08 13:22:21,413 - ebanking -INFO - Entered password
+2020-06-08 13:22:21,483 - ebanking -INFO - User has clicked on login Button
+2020-06-08 13:22:31,537 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 13:22:41,830 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 13:22:42,420 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:22:45,647 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 13:22:45,774 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:22:46,515 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 13:39:58,542 - ebanking -INFO - URL is opened
+2020-06-08 13:41:03,308 - ebanking -INFO - Entered username
+2020-06-08 13:41:04,451 - ebanking -INFO - Entered password
+2020-06-08 13:41:04,512 - ebanking -INFO - User has clicked on login Button
+2020-06-08 13:41:14,566 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 13:41:26,625 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 13:41:27,718 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:41:30,963 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 13:41:31,090 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:41:31,335 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 13:51:37,901 - ebanking -INFO - URL is opened
+2020-06-08 13:53:22,525 - ebanking -INFO - Entered username
+2020-06-08 13:53:23,685 - ebanking -INFO - Entered password
+2020-06-08 13:53:23,753 - ebanking -INFO - User has clicked on login Button
+2020-06-08 13:53:33,802 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 13:53:44,404 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 13:53:45,498 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:53:48,703 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 13:53:48,834 - ebanking -INFO - User has clicked on next Button
+2020-06-08 13:53:49,118 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 13:59:23,329 - ebanking -INFO - URL is opened
+2020-06-08 14:00:07,355 - ebanking -INFO - Entered username
+2020-06-08 14:00:08,557 - ebanking -INFO - Entered password
+2020-06-08 14:00:08,621 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:00:18,672 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:00:33,832 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:00:34,912 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:00:37,682 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:00:37,823 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:00:38,092 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:04:02,527 - ebanking -INFO - URL is opened
+2020-06-08 14:05:05,951 - ebanking -INFO - Entered username
+2020-06-08 14:05:07,105 - ebanking -INFO - Entered password
+2020-06-08 14:05:07,166 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:05:17,219 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:05:22,157 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:05:22,740 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:05:25,444 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:05:25,553 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:05:25,806 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:13:41,116 - ebanking -INFO - URL is opened
+2020-06-08 14:15:06,276 - ebanking -INFO - Entered username
+2020-06-08 14:15:07,667 - ebanking -INFO - Entered password
+2020-06-08 14:15:07,752 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:15:17,810 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:15:32,194 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:15:32,798 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:15:35,602 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:15:35,799 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:15:36,117 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:19:20,151 - ebanking -INFO - URL is opened
+2020-06-08 14:20:03,111 - ebanking -INFO - Entered username
+2020-06-08 14:20:04,280 - ebanking -INFO - Entered password
+2020-06-08 14:20:04,340 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:20:14,396 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:20:27,011 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:20:28,109 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:20:31,829 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:20:32,019 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:20:32,377 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:24:39,059 - ebanking -INFO - URL is opened
+2020-06-08 14:25:06,326 - ebanking -INFO - Entered username
+2020-06-08 14:25:07,498 - ebanking -INFO - Entered password
+2020-06-08 14:25:07,554 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:25:17,605 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:25:21,880 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:25:23,038 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:25:26,760 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:25:26,923 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:25:27,265 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:28:03,825 - ebanking -INFO - URL is opened
+2020-06-08 14:28:57,366 - ebanking -INFO - Entered username
+2020-06-08 14:28:58,552 - ebanking -INFO - Entered password
+2020-06-08 14:28:58,651 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:29:08,710 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:31:05,101 - ebanking -INFO - URL is opened
+2020-06-08 14:31:56,008 - ebanking -INFO - Entered username
+2020-06-08 14:31:57,185 - ebanking -INFO - Entered password
+2020-06-08 14:31:57,258 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:32:07,320 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:32:18,926 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:32:19,511 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:32:22,738 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:32:22,885 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:32:23,698 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:42:53,593 - ebanking -INFO - URL is opened
+2020-06-08 14:43:43,120 - ebanking -INFO - Entered username
+2020-06-08 14:43:44,304 - ebanking -INFO - Entered password
+2020-06-08 14:43:44,379 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:43:54,437 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:44:09,644 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:44:10,746 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:44:14,632 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:44:14,790 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:44:15,150 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:47:36,115 - ebanking -INFO - URL is opened
+2020-06-08 14:49:19,741 - ebanking -INFO - URL is opened
+2020-06-08 14:50:37,428 - ebanking -INFO - Entered username
+2020-06-08 14:50:38,608 - ebanking -INFO - Entered password
+2020-06-08 14:50:38,669 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:50:48,722 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:51:00,837 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:51:01,927 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:51:04,676 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:51:04,865 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:51:05,209 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 14:56:21,932 - ebanking -INFO - URL is opened
+2020-06-08 14:57:30,519 - ebanking -INFO - Entered username
+2020-06-08 14:57:31,697 - ebanking -INFO - Entered password
+2020-06-08 14:57:31,776 - ebanking -INFO - User has clicked on login Button
+2020-06-08 14:57:41,835 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 14:57:48,440 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 14:57:49,058 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:57:52,264 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 14:57:52,414 - ebanking -INFO - User has clicked on next Button
+2020-06-08 14:57:53,210 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:03:35,523 - ebanking -INFO - URL is opened
+2020-06-08 15:04:33,051 - ebanking -INFO - Entered username
+2020-06-08 15:04:34,231 - ebanking -INFO - Entered password
+2020-06-08 15:04:34,295 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:04:44,349 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:07:07,717 - ebanking -INFO - URL is opened
+2020-06-08 15:09:15,607 - ebanking -INFO - URL is opened
+2020-06-08 15:10:24,817 - ebanking -INFO - Entered username
+2020-06-08 15:10:25,989 - ebanking -INFO - Entered password
+2020-06-08 15:10:26,057 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:10:36,113 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:10:44,200 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:10:44,824 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:10:48,550 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:10:48,724 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:10:49,101 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:22:24,292 - ebanking -INFO - URL is opened
+2020-06-08 15:23:35,593 - ebanking -INFO - Entered username
+2020-06-08 15:23:36,770 - ebanking -INFO - Entered password
+2020-06-08 15:23:36,847 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:23:46,904 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:24:01,928 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:24:03,661 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:24:07,434 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:24:07,585 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:24:07,937 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:29:52,667 - ebanking -INFO - URL is opened
+2020-06-08 15:30:35,434 - ebanking -INFO - Entered username
+2020-06-08 15:30:36,647 - ebanking -INFO - Entered password
+2020-06-08 15:30:36,734 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:30:46,792 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:30:59,950 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:31:00,912 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:31:04,676 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:31:04,847 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:31:05,616 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:37:20,524 - ebanking -INFO - URL is opened
+2020-06-08 15:38:34,198 - ebanking -INFO - Entered username
+2020-06-08 15:38:35,367 - ebanking -INFO - Entered password
+2020-06-08 15:38:35,441 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:38:45,497 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:39:00,441 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:39:01,552 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:39:05,297 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:39:05,462 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:39:05,808 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:43:00,013 - ebanking -INFO - URL is opened
+2020-06-08 15:43:40,945 - ebanking -INFO - Entered username
+2020-06-08 15:43:42,136 - ebanking -INFO - Entered password
+2020-06-08 15:43:42,208 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:43:52,263 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:44:37,646 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:44:38,398 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:44:41,672 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:44:41,839 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:44:42,201 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:50:13,694 - ebanking -INFO - URL is opened
+2020-06-08 15:51:10,586 - ebanking -INFO - Entered username
+2020-06-08 15:51:11,789 - ebanking -INFO - Entered password
+2020-06-08 15:51:11,876 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:51:21,931 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:51:30,026 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:51:31,158 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:51:34,370 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:51:34,523 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:51:34,877 - ebanking -INFO - User has clicked on inception date field
+2020-06-08 15:58:15,122 - ebanking -INFO - URL is opened
+2020-06-08 15:58:46,192 - ebanking -INFO - Entered username
+2020-06-08 15:58:47,371 - ebanking -INFO - Entered password
+2020-06-08 15:58:47,455 - ebanking -INFO - User has clicked on login Button
+2020-06-08 15:58:57,510 - ebanking -INFO - User has clicked on authorize Button
+2020-06-08 15:59:07,459 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-08 15:59:08,269 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:59:11,476 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-08 15:59:11,612 - ebanking -INFO - User has clicked on next Button
+2020-06-08 15:59:11,985 - ebanking -INFO - User has clicked on inception date field
