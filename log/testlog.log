@@ -517,3 +517,154 @@
 2020-06-08 19:17:12,119 - ebanking -INFO - URL is opened
 2020-06-08 19:20:00,482 - ebanking -INFO - Entered username
 2020-06-08 19:20:02,365 - ebanking -INFO - Entered password
+2020-06-09 09:28:45,091 - ebanking -INFO - URL is opened
+2020-06-09 09:29:09,746 - ebanking -INFO - Entered username
+2020-06-09 09:29:11,070 - ebanking -INFO - Entered password
+2020-06-09 10:02:43,737 - ebanking -INFO - URL is opened
+2020-06-09 10:03:31,955 - ebanking -INFO - Entered username
+2020-06-09 10:03:33,240 - ebanking -INFO - Entered password
+2020-06-09 10:03:33,341 - ebanking -INFO - User has clicked on login Button
+2020-06-09 10:03:43,394 - ebanking -INFO - User has clicked on authorize Button
+2020-06-09 10:03:53,950 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-09 10:03:54,822 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:03:59,059 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-09 10:03:59,191 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:03:59,509 - ebanking -INFO - User has clicked on inception date field
+2020-06-09 10:07:51,509 - ebanking -INFO - URL is opened
+2020-06-09 10:08:29,062 - ebanking -INFO - Entered username
+2020-06-09 10:08:30,232 - ebanking -INFO - Entered password
+2020-06-09 10:12:21,573 - ebanking -INFO - URL is opened
+2020-06-09 10:13:20,866 - ebanking -INFO - Entered username
+2020-06-09 10:13:26,042 - ebanking -INFO - Entered password
+2020-06-09 10:13:31,107 - ebanking -INFO - User has clicked on login Button
+2020-06-09 10:13:41,158 - ebanking -INFO - User has clicked on authorize Button
+2020-06-09 10:13:58,805 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-09 10:13:59,561 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:14:03,808 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-09 10:14:03,989 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:14:04,788 - ebanking -INFO - User has clicked on inception date field
+2020-06-09 10:18:34,903 - ebanking -INFO - URL is opened
+2020-06-09 10:19:29,223 - ebanking -INFO - Entered username
+2020-06-09 10:19:34,418 - ebanking -INFO - Entered password
+2020-06-09 10:19:39,479 - ebanking -INFO - User has clicked on login Button
+2020-06-09 10:19:49,538 - ebanking -INFO - User has clicked on authorize Button
+2020-06-09 10:20:08,775 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-09 10:20:10,199 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:20:13,458 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-09 10:20:13,605 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:20:14,396 - ebanking -INFO - User has clicked on inception date field
+2020-06-09 10:24:49,812 - ebanking -INFO - URL is opened
+2020-06-09 10:25:21,790 - ebanking -INFO - Entered username
+2020-06-09 10:25:26,960 - ebanking -INFO - Entered password
+2020-06-09 10:25:32,017 - ebanking -INFO - User has clicked on login Button
+2020-06-09 10:25:42,070 - ebanking -INFO - User has clicked on authorize Button
+2020-06-09 10:26:05,829 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-09 10:26:07,113 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:26:10,891 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-09 10:26:11,032 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:26:11,345 - ebanking -INFO - User has clicked on inception date field
+2020-06-09 10:37:11,731 - ebanking -INFO - URL is opened
+2020-06-09 10:37:54,093 - ebanking -INFO - Entered username
+2020-06-09 10:37:59,300 - ebanking -INFO - Entered password
+2020-06-09 10:38:04,356 - ebanking -INFO - User has clicked on login Button
+2020-06-09 10:38:14,418 - ebanking -INFO - User has clicked on authorize Button
+2020-06-09 10:38:23,304 - ebanking -INFO - User has clicked on get A Quotes Icon
+2020-06-09 10:38:24,704 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:38:29,539 - ebanking -INFO - User has clicked on vacant building Icon
+2020-06-09 10:38:29,656 - ebanking -INFO - User has clicked on next Button
+2020-06-09 10:38:30,469 - ebanking -INFO - User has clicked on inception date field
+2020-06-09 12:17:59,393 - testbroker -INFO - URL is opened
+2020-06-09 12:18:35,301 - testbroker -INFO - Entered username
+2020-06-09 12:18:40,490 - testbroker -INFO - Entered password
+2020-06-09 12:18:45,559 - testbroker -INFO - User has clicked on login Button
+2020-06-09 12:18:55,611 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 12:19:07,301 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 12:19:09,200 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:19:13,152 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 12:19:13,561 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:19:14,387 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 12:23:38,749 - testbroker -INFO - URL is opened
+2020-06-09 12:24:04,709 - testbroker -INFO - Entered username
+2020-06-09 12:24:10,041 - testbroker -INFO - Entered password
+2020-06-09 12:24:15,142 - testbroker -INFO - User has clicked on login Button
+2020-06-09 12:24:25,196 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 12:24:40,020 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 12:24:41,567 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:24:45,271 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 12:24:45,466 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:24:45,890 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 12:31:59,699 - testbroker -INFO - URL is opened
+2020-06-09 12:32:44,790 - testbroker -INFO - Entered username
+2020-06-09 12:32:49,969 - testbroker -INFO - Entered password
+2020-06-09 12:32:55,031 - testbroker -INFO - User has clicked on login Button
+2020-06-09 12:33:05,091 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 12:33:17,881 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 12:33:18,666 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:33:21,389 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 12:33:21,539 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:33:21,896 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 12:38:13,668 - testbroker -INFO - URL is opened
+2020-06-09 12:39:19,311 - testbroker -INFO - Entered username
+2020-06-09 12:39:24,501 - testbroker -INFO - Entered password
+2020-06-09 12:39:29,562 - testbroker -INFO - User has clicked on login Button
+2020-06-09 12:39:39,618 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 12:39:52,644 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 12:39:54,627 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:39:58,275 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 12:39:58,489 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:40:00,669 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 12:44:51,771 - testbroker -INFO - URL is opened
+2020-06-09 12:45:16,109 - testbroker -INFO - Entered username
+2020-06-09 12:45:21,510 - testbroker -INFO - Entered password
+2020-06-09 12:45:47,851 - testbroker -INFO - User has clicked on login Button
+2020-06-09 12:45:57,907 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 12:46:08,063 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 12:46:08,491 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:46:11,911 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 12:46:12,079 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:46:13,106 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 12:51:19,669 - testbroker -INFO - URL is opened
+2020-06-09 12:51:52,997 - testbroker -INFO - Entered username
+2020-06-09 12:51:58,190 - testbroker -INFO - Entered password
+2020-06-09 12:52:03,253 - testbroker -INFO - User has clicked on login Button
+2020-06-09 12:52:13,312 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 12:52:22,235 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 12:52:23,458 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:52:27,262 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 12:52:27,496 - testbroker -INFO - User has clicked on next Button
+2020-06-09 12:52:27,982 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 13:00:57,314 - testbroker -INFO - URL is opened
+2020-06-09 13:01:38,381 - testbroker -INFO - Entered username
+2020-06-09 13:01:44,437 - testbroker -INFO - Entered password
+2020-06-09 13:01:51,068 - testbroker -INFO - User has clicked on login Button
+2020-06-09 13:02:01,143 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 13:02:14,921 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 13:02:16,360 - testbroker -INFO - User has clicked on next Button
+2020-06-09 13:02:19,645 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 13:02:19,806 - testbroker -INFO - User has clicked on next Button
+2020-06-09 13:02:20,155 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 13:10:09,466 - testbroker -INFO - URL is opened
+2020-06-09 13:10:40,129 - testbroker -INFO - Entered username
+2020-06-09 13:10:45,358 - testbroker -INFO - Entered password
+2020-06-09 13:10:50,433 - testbroker -INFO - User has clicked on login Button
+2020-06-09 13:11:00,484 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 13:11:11,041 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 13:11:12,515 - testbroker -INFO - User has clicked on next Button
+2020-06-09 13:11:15,910 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 13:11:16,047 - testbroker -INFO - User has clicked on next Button
+2020-06-09 13:11:16,837 - testbroker -INFO - User has clicked on inception date field
+2020-06-09 13:26:10,602 - testbroker -INFO - URL is opened
+2020-06-09 13:27:07,682 - testbroker -INFO - Entered username
+2020-06-09 13:27:13,434 - testbroker -INFO - Entered password
+2020-06-09 13:27:20,527 - testbroker -INFO - User has clicked on login Button
+2020-06-09 13:27:30,583 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 14:00:52,478 - testbroker -INFO - URL is opened
+2020-06-09 14:01:38,286 - testbroker -INFO - Entered username
+2020-06-09 14:01:43,493 - testbroker -INFO - Entered password
+2020-06-09 14:01:48,566 - testbroker -INFO - User has clicked on login Button
+2020-06-09 14:01:58,618 - testbroker -INFO - User has clicked on authorize Button
+2020-06-09 14:02:13,172 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-09 14:02:13,946 - testbroker -INFO - User has clicked on next Button
+2020-06-09 14:02:16,854 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-09 14:02:17,000 - testbroker -INFO - User has clicked on next Button
+2020-06-09 14:02:17,347 - testbroker -INFO - User has clicked on inception date field

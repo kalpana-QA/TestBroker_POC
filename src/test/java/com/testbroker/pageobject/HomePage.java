@@ -24,14 +24,14 @@ public class HomePage {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("1.Click on Get A Quotes step....")
 	public void getQuotesClick() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, getAQuotes);
 		WaitStatementLib.threadSleepOfEightSec();
 		getAQuotes.click();;
 
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("1.Click on vacant icon step....")
 	public void vacantIconClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, vacantIcon);
 		vacantIcon.click();;

@@ -50,15 +50,15 @@ public class LoginPage  {
 	}
 	@Step("3.Login with password: {0} step....")
 	public void passwordField(String password) throws InterruptedException{
-		Thread.sleep(1000);
+		Thread.sleep(5000);
 
 		passwordField.sendKeys(password);
 
 	}
 	@Step("4.Click on login button to land on login screen step....")
-	public void LoginClick(){
+	public void LoginClick() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver1, 20, loginButton);
-		
+		Thread.sleep(5000);
 		loginButton.click();
 	}
 	

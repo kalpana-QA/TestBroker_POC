@@ -31,7 +31,7 @@ public class BaseLib {
 	@BeforeMethod
 	@Parameters(value={"browser"})
 	public void preCondition(String browserName) throws InterruptedException, EncryptedDocumentException, InvalidFormatException, IOException{
-		logger = Logger.getLogger("ebanking");
+		logger = Logger.getLogger("testbroker");
 		PropertyConfigurator.configure("Log4j.properties");
 		if (browserName.equalsIgnoreCase("firefox")){
 			
@@ -45,25 +45,15 @@ public class BaseLib {
 		        options.addExtensions(new File(".\\exefiles\\ZenmateExtension.crx"));
 		         driver = new ChromeDriver(options);
 		        WaitStatementLib.threadSleepOfFourSec();
-//		        driver.findElement(By.xpath("//span[text()='Log in']")).click();
-//		        driver.findElement(By.xpath("//input[@placeholder='Username/Email']")).sendKeys("kalpana.kaushik@impactqa.com");
-//		        driver.findElement(By.xpath("(//input[@placeholder='Password'])[2]")).sendKeys("Impactqa@123");
-//		        driver.findElement(By.xpath("//input[@type='checkbox']")).click();
-//		        driver.findElement(By.xpath("//button[@type='submit']//span[text()='Log In']")).click();
-//		 
+
 		        Thread.sleep(5000);
-//		        ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
-//		        driver.switchTo().window(tabs2.get(1));
-//		        driver.close();
-//		        driver.switchTo().window(tabs2.get(0));
-//		        Thread.sleep(10000);
+
 		        ZenmateVPNPage zenmate= new ZenmateVPNPage(driver);
 		        zenmate.zenmateLoginButton();
 		        zenmate.emailField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-Email", "Valid-Email"));
 		        Thread.sleep(5000);
 		        driver.findElement(By.xpath("(//input[@placeholder='Password'])[2]")).sendKeys(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-Password", "Valid-Password"));
-		        //zenmate.passwordField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-Password", "Valid-Password"));
-		        //Thread.sleep(5000);
+		       
 		        zenmate.checkButton();
 		        zenmate.submitButton();
 		        Thread.sleep(5000);
@@ -75,10 +65,7 @@ public class BaseLib {
 		        WaitStatementLib.threadSleepOfFourSec();
 		        WaitStatementLib.pageLoadTime(driver);
 		        driver.get(" https://testbroker-v2.opaluw.com");      
-		        
-		      
-				
-		       
+		        	       
 			}
 			else{
 				if(browserName.equalsIgnoreCase("ie")){

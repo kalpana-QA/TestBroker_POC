@@ -77,23 +77,23 @@ public class LoginTest extends BaseLib {
 		cover.totolInsuredValue(ExcelUtilityLib.getKeyValue(LoginCredentials, "totalinsuredvalue", "Valid-totalinsuredvalue"));
 		cover.caValue();
 		cover.buildingAge();
-		cover.yesoption();
+		//cover.yesoption();
 		cover.allRiskValue();
 		vacantbuilding.nextButton();
 		cover.insuranceOption();
+		
 		cover.lossValue();
 		cover.mortageOrLoan();
 		vacantbuilding.nextButton();
 		cover.generalLiabilityCover();
+		cover.scroll();
+		cover.zeroClaim();
+		cover.limitRequired();
+		cover.deductableRequired();
 		cover.getQuote();
 		cover.confirmCheckbox();
 		cover.proceed();
-
-
-
-
-
-
+		cover.verifyGrossAmount();
 
 	}
 
