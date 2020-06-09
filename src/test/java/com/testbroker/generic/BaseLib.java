@@ -18,6 +18,7 @@ import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import com.testbroker.pageobject.ZenmateVPNPage;
@@ -29,17 +30,17 @@ public class BaseLib {
 	static final String LoginCredentials = "LoginCredentials_Sheet";
 
 	@BeforeMethod
-	@Parameters(value={"browser"})
-	public void preCondition(String browserName) throws InterruptedException, EncryptedDocumentException, InvalidFormatException, IOException{
+	//@Parameters(value={"browser"})
+	public void preCondition() throws InterruptedException, EncryptedDocumentException, InvalidFormatException, IOException{
 		logger = Logger.getLogger("testbroker");
 		PropertyConfigurator.configure("Log4j.properties");
-		if (browserName.equalsIgnoreCase("firefox")){
-			
-			driver= new FirefoxDriver();
-			Reporter.log("firefox is launched",true);
-		}
-		else{
-			if (browserName.equalsIgnoreCase("chrome")){
+//		if (browserName.equalsIgnoreCase("firefox")){
+//			
+//			driver= new FirefoxDriver();
+//			Reporter.log("firefox is launched",true);
+//		}
+//		else{
+//			if (browserName.equalsIgnoreCase("chrome")){
 				System.setProperty("webdriver.chrome.driver", ".\\exefiles\\chromedriver.exe");
 				ChromeOptions options = new ChromeOptions();
 		        options.addExtensions(new File(".\\exefiles\\ZenmateExtension.crx"));
@@ -66,15 +67,15 @@ public class BaseLib {
 		        WaitStatementLib.pageLoadTime(driver);
 		        driver.get(" https://testbroker-v2.opaluw.com");      
 		        	       
-			}
-			else{
-				if(browserName.equalsIgnoreCase("ie")){
-					System.setProperty("webdriver.ie.driver", ".\\exefiles\\IEDriverServer.exe");
-					driver= new InternetExplorerDriver();
-					Reporter.log("ie is launched");
-				}
-			}
-		}
+//			}
+//			else{
+//				if(browserName.equalsIgnoreCase("ie")){
+//					System.setProperty("webdriver.ie.driver", ".\\exefiles\\IEDriverServer.exe");
+//					driver= new InternetExplorerDriver();
+//					Reporter.log("ie is launched");
+//				}
+//			}
+//		}
 	}
 	@AfterMethod
 	public void postCondition(ITestResult result){

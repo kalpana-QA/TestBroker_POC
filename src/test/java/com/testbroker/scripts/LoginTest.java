@@ -24,10 +24,11 @@ public class LoginTest extends BaseLib {
 	@Severity(SeverityLevel.BLOCKER)
 	@Description("Test Case Description: To verify when user is able to login with correct username and passowrd")
 	@Story("Story Name: To check login page functionality")
-	public void validLoginTest() throws InterruptedException, IOException, IllegalStateException, InvalidFormatException{
+	public void vacantBuildingPremiumVerfification() throws InterruptedException, IOException, IllegalStateException, InvalidFormatException{
 		logger.info("URL is opened");
 		LoginPage lp = new LoginPage(driver);
 		lp.dashboardClick();
+		//lp.remindmeLater();
 		lp.usernameField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-UserEmail", "Valid-Email"));
 		logger.info("Entered username");
 		lp.passwordField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-UserPassword", "Valid-Password"));
@@ -53,47 +54,86 @@ public class LoginTest extends BaseLib {
 		//logger.info("User has clicked on date passed from the excel sheet");
 		//vacantbuilding.verifytimeBetween();
 		vacantbuilding.nextButton();
+		logger.info("User has clicked on next button");
 		vacantbuilding.yesButtonClick();
+		logger.info("User has clicked on yes next button");
 		vacantbuilding.setTargetPrice(ExcelUtilityLib.getKeyValue(LoginCredentials, "TargetFieldKey", "TargetFieldValue"));
+		logger.info("User has enter the set target price");
 		vacantbuilding.nextButton();
+		logger.info("User has clicked next button");
 		vacantbuilding.fullName(ExcelUtilityLib.getKeyValue(LoginCredentials, "FullName", "Valid-fullname"));
+		logger.info("User has enter the fullname");
 		vacantbuilding.addressField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Address", "Valid-address"));
+		logger.info("User has enter the set mailing address");
 		vacantbuilding.checkbox1();
+		logger.info("User has selected the checkbox");
 		vacantbuilding.streetName(ExcelUtilityLib.getKeyValue(LoginCredentials, "StreetName", "Valid-streetname"));
+		logger.info("User has enter the street name");
 		vacantbuilding.zipcode(ExcelUtilityLib.getKeyValue(LoginCredentials, "ZipCode", "Valid-ZipCode"));
+		logger.info("User has enter the zip code");
 		vacantbuilding.nextButton();
+		logger.info("User has clicked on next button");
 		BuildingCoverPage cover= new BuildingCoverPage(driver);
 		vacantbuilding.checkbox2();
+		logger.info("User has select the checkbox");
 		cover.usemailingAddress();
+		logger.info("User has select the use same mailing address");
 		vacantbuilding.streetName(ExcelUtilityLib.getKeyValue(LoginCredentials, "StreetName", "Valid-streetname"));
+		logger.info("User has enter the street name");
 		vacantbuilding.zipcode(ExcelUtilityLib.getKeyValue(LoginCredentials, "ZipCode", "Valid-ZipCode"));
+		logger.info("User has enter the zipcode");
 		cover.scroll();
+		logger.info("User has scroll");
 		cover.buildingVacantOption();
+		logger.info("User has select the building option");
 		cover.structureDemolition();
+		logger.info("User has select the demolition");
 		vacantbuilding.nextButton();
+		logger.info("User has select the frame and timber option");
 		cover.frameTimberClick();
-		cover.scroll();
+		logger.info("User has enter the set target price");
+		logger.info("User has scroll");	
 		cover.fuscSore();
+		logger.info("User has select the fus score");
 		cover.totolInsuredValue(ExcelUtilityLib.getKeyValue(LoginCredentials, "totalinsuredvalue", "Valid-totalinsuredvalue"));
+		logger.info("User has enter the total insured value");
 		cover.caValue();
+		logger.info("User has select the ca value");
 		cover.buildingAge();
+		logger.info("User has select the building age");
 		//cover.yesoption();
 		cover.allRiskValue();
+		logger.info("User has select the all the risk value");
 		vacantbuilding.nextButton();
+		logger.info("User has select the next button");
 		cover.insuranceOption();
-		
+		logger.info("User has select the insurance option");
 		cover.lossValue();
+		logger.info("User has select the loss value");
 		cover.mortageOrLoan();
+		logger.info("User has select the mortage or loan");
 		vacantbuilding.nextButton();
+		logger.info("User has select the next button");
 		cover.generalLiabilityCover();
+		logger.info("User has select the general liability cover");
 		cover.scroll();
+		logger.info("User has scroll");
 		cover.zeroClaim();
+		logger.info("User has select the zero claim");
 		cover.limitRequired();
+		logger.info("User has select the limit required value");
 		cover.deductableRequired();
+		logger.info("User has select the deductable required value");
 		cover.getQuote();
+		logger.info("User has select the get the quote button");
 		cover.confirmCheckbox();
+		logger.info("User has select the confirm checkbox");
 		cover.proceed();
+		logger.info("User has select the proceed");
 		cover.verifyGrossAmount();
+		logger.info("User has verify the gross amount");
+		cover.highLightElement();
+		WaitStatementLib.threadSleepOfSixSec();
 
 	}
 

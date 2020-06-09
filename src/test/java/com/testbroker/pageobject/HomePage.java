@@ -16,22 +16,20 @@ public class HomePage {
 	@FindBy(xpath="//div[contains(text(),'Vacant')]")
 	private WebElement vacantIcon;
 	
-	
 	 WebDriver driver;
 
-	
 	public HomePage(WebDriver driver){
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	@Step("1.Click on Get A Quotes step....")
+	@Step("User has clicked on Get A Quotes....")
 	public void getQuotesClick() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, getAQuotes);
 		WaitStatementLib.threadSleepOfEightSec();
 		getAQuotes.click();;
 
 	}
-	@Step("1.Click on vacant icon step....")
+	@Step("User has clicked on vacant building icon....")
 	public void vacantIconClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, vacantIcon);
 		vacantIcon.click();;

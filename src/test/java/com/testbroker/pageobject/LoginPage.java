@@ -28,6 +28,9 @@ public class LoginPage  {
 	
 	@FindBy(xpath="//span[@class='v-btn__content']")
 	private WebElement authorize;
+	
+	@FindBy(xpath="//button[@id='dismiss-btn']")
+	private WebElement remindmelater;
 	 WebDriver driver;
 
 	
@@ -35,34 +38,39 @@ public class LoginPage  {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has clicked on Proceed to Dashboard button....")
 	public void dashboardClick(){
 		proceedButton.click();;
 
 	}
-	@Step("2.Login with username: {0} step....")
+	@Step("User has clicked on remind me later button of Zenmate VPN....")
+	public void remindmeLater(){
+		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 20, remindmelater);
+		driver.switchTo().frame("iframe-widget");
+		remindmelater.click();;
+
+	}
+	@Step("User has enter the username: {0} successfully....")
 	public void usernameField(String username) throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitForClickable(driver, 20, usernameField);
 		//WaitStatementLib.threadSleepOfEightSec();
 		Thread.sleep(15000);
 		usernameField.sendKeys(username);
-
 	}
-	@Step("3.Login with password: {0} step....")
+	@Step("User has enter the password: {0} successfully....")
 	public void passwordField(String password) throws InterruptedException{
 		Thread.sleep(5000);
-
 		passwordField.sendKeys(password);
 
 	}
-	@Step("4.Click on login button to land on login screen step....")
+	@Step("User has clicked on login button....")
 	public void LoginClick() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver1, 20, loginButton);
 		Thread.sleep(5000);
 		loginButton.click();
 	}
 	
-	@Step("4.Click on login button to land on login screen step....")
+	@Step("User has clicked on authorize button to land on login screen step....")
 	public void authorizeButton() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver1, 20, loginButton);
 		Thread.sleep(10000);

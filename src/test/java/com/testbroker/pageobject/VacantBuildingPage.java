@@ -78,24 +78,24 @@ public class VacantBuildingPage {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has clicked on vacant icon....")
 	public void vacantBuildingClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, vacantBuildingIcon);
-		vacantBuildingIcon.click();;
+		vacantBuildingIcon.click();
 
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has clicked on next button....")
 	public void nextButton(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, nextButton);
 		nextButton.click();;
 
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has clicked on inception date field....")
 	public void inceptionDate(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, inceptiondatedrpdwn);
 		inceptiondatedrpdwn.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has select the current date from the calendar....")
 	public void currentDate(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, currentdate);
 		currentdate.click();;
@@ -118,19 +118,18 @@ public class VacantBuildingPage {
 		String updatedDate=dateFormat.format(calendar.getTime());
 		Assert.assertEquals(updatedDate, expiredDate);
 		}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has clicked on No button....")
 	public void noButtonClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, noButton);
 		noButton.click();
 	}
 	
-	
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has clicked on Yes button....")
 	public void yesButtonClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, yesButton);
 		yesButton.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has enter the Full Name : {0}....")
 	public void fullName(String fullname ) throws InterruptedException{
 		WaitStatementLib.threadSleepOfEightSec();
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, fullnamefield);
@@ -138,7 +137,7 @@ public class VacantBuildingPage {
 		WaitStatementLib.threadSleepOfEightSec();
 		name.sendKeys(fullname);
 		}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has enter the mailing address....")
 	public void addressField(String address ) throws InterruptedException{
 		WaitStatementLib.threadSleepOfEightSec();
 
@@ -155,16 +154,15 @@ public class VacantBuildingPage {
 		}
 		
 		}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has selected the checked for manually entering the address....")
 	public void checkbox1() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, checkboxfield);
 		WaitStatementLib.threadSleepOfSixSec();
 		Actions action = new Actions(driver);
 		  action.moveToElement(checkboxfield).perform();
-		  checkboxfield.click();
-                
-		//checkboxfield.click();
+		  checkboxfield.click();              	
 	}
+	@Step("User has selected the checked for manually entering the address....")
 	public void checkbox2() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, checkboxfield);
 		WaitStatementLib.threadSleepOfSixSec();
@@ -174,20 +172,20 @@ public class VacantBuildingPage {
                 
 		//checkboxfield.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has enter the street Number :{0}....")
 	public void streetName(String street ) throws InterruptedException{
 		WaitStatementLib.threadSleepOfSixSec();
 
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, streetnumberfield);
 		streetnumberfield.sendKeys(street);
 		}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User has enter the Zip Code :{0}....")
 	public void zipcode(String zip ) throws InterruptedException{
 		WaitStatementLib.threadSleepOfSixSec();
-
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, zipfield);
 		zipfield.sendKeys(zip);
 		}
+	@Step("User has enter the Target Price Field :{0}....")
 	public void setTargetPrice(String value) throws InterruptedException {
 		WaitStatementLib.threadSleepOfEightSec();
 		WaitStatementLib.explicitlyWaitForClickable(driver, 20, targetPriceField);

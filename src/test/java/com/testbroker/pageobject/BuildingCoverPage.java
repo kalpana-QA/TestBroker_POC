@@ -62,13 +62,13 @@ public class BuildingCoverPage {
 	private WebElement deductiblerequired;
 	@FindBy(xpath="//div[@id='c2ms5d77742985f6c3_88132932']//button[1]")
 	private WebElement loss;
-	
+
 	@FindBy(xpath="(//div[@class='v-window-item v-window-item--active']//div[contains(text(),'0')])[2]")
 	private WebElement mortageorloan;
-	
+
 	@FindBy(xpath="//div[@class='v-window-item v-window-item--active']//div[@class='v-card__text']//button[1]")
 	private WebElement generalLiabiltyCover;
-	
+
 	@FindBy(xpath="//span[contains(text(),'Get Quote')]")
 	private WebElement getQuote;
 
@@ -86,107 +86,130 @@ public class BuildingCoverPage {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User clicks on Use entered mailing address checkbox....")
 	public void usemailingAddress(){
 		useAddressCheckBox.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User clicks on Manually enter the address Checkbx....")
 	public void manualAddressCheckbox(){
 		manualAddressCheckbox.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User clicks on No option for builiding Vacant for 12 months option....")
 	public void buildingVacantOption(){
 		buildingvacant12month.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("User clicks on No option for demolition during the policy period....")
 	public void structureDemolition(){
 		structuredemolition.click();
 	}
-	@Step("1.Click on Proceed to Dashboard step....")
+	@Step("Scroll down....")
 	public void scroll(){
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		//js.executeScript("arguments[0].scrollIntoView();", buildingvacant12month);
 		js.executeScript("window.scrollBy(0,1000)");
 	}
+	@Step("User selects Frame/Timber option from Construction Type....")
 	public void frameTimberClick() throws InterruptedException{
 		WaitStatementLib.threadSleepOfFourSec();
 		frametimber.click();
 	}
+	@Step("User selects 1-4 from FUS score dropdown....")
 	public void fuscSore() throws InterruptedException{
 		WaitStatementLib.threadSleepOfFourSec();
 		fusScore.click();
 		WaitStatementLib.threadSleepOfFourSec();
 		score.click();
 	}
-	@Step("2.Login with username: {0} step....")
+	@Step("User entered Total Insured Value: {0}....")
 	public void totolInsuredValue(String totalvalue) throws InterruptedException{
 		WaitStatementLib.threadSleepOfEightSec();
 		WaitStatementLib.explicitlyWaitForClickable(driver, 20, totolInsuredValue);
 		totolInsuredValue.sendKeys(totalvalue);
 	}
+	@Step("User selects first option:1000$ for deductible required ")
 	public void caValue() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 		cavalue.click();
 	}
+
+	@Step("User selects :Under 15 years from Building Age ")
 	public void buildingAge() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
-
 		buildingAge.click();
 	}
+
+	@Step("User selects Yes Option")
 	public void yesoption() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
-
 		yesoption.click();
 	}
+
+	@Step("User clicks on All Risks option for Required Cover level")
 	public void allRiskValue() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 
 		allriskvalue.click();
 	}
+
+	@Step("User selects No for insurance cancelled previously")
 	public void insuranceOption() throws InterruptedException{
 		WaitStatementLib.threadSleepOfFourSec();
 
 		insuranceoption.click();
 	}
+
+	@Step("User selects 0 for GL claims")
 	public void zeroClaim() throws InterruptedException{
 		WaitStatementLib.threadSleepOfFourSec();
 
 		zerocliam.click();
 	}
+
+	@Step("User selects amount 1000,000$ for General Liability limit")
 	public void limitRequired() throws InterruptedException{
 		WaitStatementLib.threadSleepOfFourSec();
 
 		limitrequired.click();
 	}
+	@Step("User selects amount 1000$ for General Liability deductible")
 	public void deductableRequired() throws InterruptedException{
 		WaitStatementLib.threadSleepOfFourSec();
 
 		deductiblerequired.click();
 	}
+
+	@Step("User selects 0 as previous losses")
 	public void lossValue() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 		loss.click();
 	}
+	@Step("User selects 0 as mortgages secured")
 	public void mortageOrLoan() throws InterruptedException{
 		WaitStatementLib.threadSleepOfEightSec();
 		mortageorloan.click();
 	}
+
+	@Step("User selects Yes for general liability cover ")
 	public void generalLiabilityCover() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 		generalLiabiltyCover.click();
 	}
+	@Step("User clicks on Get Quote button... ")
 	public void getQuote() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 		getQuote.click();
 	}
+	@Step("User clicks on checkbox to confirm")
 	public void confirmCheckbox() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 		confirmCheckbox.click();
 	}
+	@Step("User clicks to proceed button")
 	public void proceed() throws InterruptedException{
 		WaitStatementLib.threadSleepOfTwoSec();
 		proceed.click();
 	}
+	@Step("User verifies Gross Amount generated")
 	public void verifyGrossAmount() throws EncryptedDocumentException, InvalidFormatException, IOException, InterruptedException {
 		WaitStatementLib.threadSleepOfEightSec();
 		WaitStatementLib.threadSleepOfEightSec();
@@ -194,5 +217,18 @@ public class BuildingCoverPage {
 		String Expected=ExcelUtilityLib.getKeyValue(LoginCredentials, "GrossValue", "Valid-GrossValue");
 		Assert.assertEquals(Actual, Expected, "The amount of gross value is not correct");
 		Reporter.log("The amount of gross value is expected", true);
+	}
+	@Step("The value has been highlighted")
+	public  void highLightElement() {
+
+		try {
+			JavascriptExecutor js = (JavascriptExecutor) driver;
+			js.executeScript("arguments[0].setAttribute('style','background: yellow; border: 2px solid red;');", grossamount);
+			Thread.sleep(1000);
+			js.executeScript("arguments[0].style.border=''", grossamount, "");
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
 	}
 }

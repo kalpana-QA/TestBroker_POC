@@ -58,5 +58,6 @@ public class WaitStatementLib {
 	public static void pageLoadTime(WebDriver driver) throws InterruptedException{
 		  driver.manage().timeouts().pageLoadTimeout(4, TimeUnit.MINUTES);
 	}
+	
 }
 
