@@ -1,0 +1,91 @@
+[ {
+  "uid" : "6ee284503c4623f9",
+  "name" : "validCartItem",
+  "time" : {
+    "start" : 1591782372965,
+    "stop" : 1591782476946,
+    "duration" : 103981
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f20573e0e490a23b",
+  "name" : "vacantBuildingPremiumVerfification",
+  "time" : {
+    "start" : 1591701256414,
+    "stop" : 1591701506274,
+    "duration" : 249860
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9f228e502daf7228",
+  "name" : "preCondition",
+  "time" : {
+    "start" : 1591693128721,
+    "stop" : 1591693128724,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "74c158472340a13e",
+  "name" : "validLoginTest",
+  "time" : {
+    "start" : 1591700557250,
+    "stop" : 1591700596341,
+    "duration" : 39091
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "bb4d3e5c553090f3",
+  "name" : "vacantBuildingPremiumVerfification",
+  "time" : {
+    "start" : 1591784380429,
+    "stop" : 1591784576163,
+    "duration" : 195734
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "821915018e5be88e",
+  "name" : "preCondition",
+  "time" : {
+    "start" : 1591688317372,
+    "stop" : 1591688317373,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9d8e7f0d2ddaeaa3",
+  "name" : "validLoginTest",
+  "time" : {
+    "start" : 1591700002920,
+    "stop" : 1591700280880,
+    "duration" : 277960
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "93d3fa34e52532bf",
+  "name" : "preCondition",
+  "time" : {
+    "start" : 1591782255175,
+    "stop" : 1591782255181,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "915127eeb9d263c2",
+  "name" : "vacantLandPremiumVerfification",
+  "time" : {
+    "start" : 1591786185326,
+    "stop" : 1591786336095,
+    "duration" : 150769
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

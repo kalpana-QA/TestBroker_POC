@@ -1,0 +1,306 @@
+{
+  "uid" : "6dcadbf663c5d1ee",
+  "name" : "validCartItem",
+  "fullName" : "com.testbroker.scripts.DofShoppingTest.validCartItem",
+  "historyId" : "50b2ff37e3ba2a2e617d6e7f02b6c03",
+  "time" : {
+    "start" : 1591781808315,
+    "stop" : 1591781918909,
+    "duration" : 110594
+  },
+  "description" : "Test Case Description: To verify user is able to add item into the cart",
+  "descriptionHtml" : "<p>Test Case Description: To verify user is able to add item into the cart</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "preCondition",
+    "time" : {
+      "start" : 1591781750749,
+      "stop" : 1591781808090,
+      "duration" : 57341
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: To verify user is able to add item into the cart",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "1.Click on Dofe Shopping step....",
+      "time" : {
+        "start" : 1591781808535,
+        "stop" : 1591781838808,
+        "duration" : 30273
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "2.Click on Dofe Clothing step....",
+      "time" : {
+        "start" : 1591781838810,
+        "stop" : 1591781855166,
+        "duration" : 16356
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591781855167,
+        "stop" : 1591781855178,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "3.Click on Shop Dofe Shopping step....",
+      "time" : {
+        "start" : 1591781855178,
+        "stop" : 1591781871945,
+        "duration" : 16767
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591781871946,
+        "stop" : 1591781871961,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591781871961,
+        "stop" : 1591781871972,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "4.Click on Shop Now step....",
+      "time" : {
+        "start" : 1591781871973,
+        "stop" : 1591781883115,
+        "duration" : 11142
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591781883115,
+        "stop" : 1591781883128,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "5.Click on Buy step....",
+      "time" : {
+        "start" : 1591781883128,
+        "stop" : 1591781894404,
+        "duration" : 11276
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591781894404,
+        "stop" : 1591781894411,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591781894411,
+        "stop" : 1591781894418,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "6.Click on Agree Checkbox step....",
+      "time" : {
+        "start" : 1591781894419,
+        "stop" : 1591781902474,
+        "duration" : 8055
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "7.Click on Add To Basket step....",
+      "time" : {
+        "start" : 1591781902475,
+        "stop" : 1591781918901,
+        "duration" : 16426
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "postCondition",
+    "time" : {
+      "start" : 1591781918924,
+      "stop" : 1591781918925,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testbroker.scripts.DofShoppingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testbroker.scripts.DofShoppingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validCartItem"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testbroker.scripts.DofShoppingTest"
+  }, {
+    "name" : "host",
+    "value" : "Shubham-Verma"
+  }, {
+    "name" : "thread",
+    "value" : "2676@Shubham-Verma.TestNG-test=Test-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: Add item into the cart"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6dcadbf663c5d1ee.json",
+  "parameterValues" : [ ]
+}

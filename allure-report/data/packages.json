@@ -1,0 +1,142 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.testbroker.scripts",
+    "children" : [ {
+      "name" : "LoginTest",
+      "children" : [ {
+        "name" : "preCondition",
+        "uid" : "821915018e5be88e",
+        "parentUid" : "342afd4d5cd11a4f26c2dd329b87d518",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591688317372,
+          "stop" : 1591688317373,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "preCondition",
+        "uid" : "9f228e502daf7228",
+        "parentUid" : "342afd4d5cd11a4f26c2dd329b87d518",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591693128721,
+          "stop" : 1591693128724,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validLoginTest",
+        "uid" : "9d8e7f0d2ddaeaa3",
+        "parentUid" : "342afd4d5cd11a4f26c2dd329b87d518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591700002920,
+          "stop" : 1591700280880,
+          "duration" : 277960
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "validLoginTest",
+        "uid" : "74c158472340a13e",
+        "parentUid" : "342afd4d5cd11a4f26c2dd329b87d518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591700557250,
+          "stop" : 1591700596341,
+          "duration" : 39091
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "vacantBuildingPremiumVerfification",
+        "uid" : "f20573e0e490a23b",
+        "parentUid" : "342afd4d5cd11a4f26c2dd329b87d518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591701256414,
+          "stop" : 1591701506274,
+          "duration" : 249860
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "342afd4d5cd11a4f26c2dd329b87d518"
+    }, {
+      "name" : "DofShoppingTest",
+      "children" : [ {
+        "name" : "preCondition",
+        "uid" : "93d3fa34e52532bf",
+        "parentUid" : "da624d2cd3932b9c95b22b65728c0972",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591782255175,
+          "stop" : 1591782255181,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validCartItem",
+        "uid" : "6ee284503c4623f9",
+        "parentUid" : "da624d2cd3932b9c95b22b65728c0972",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591782372965,
+          "stop" : 1591782476946,
+          "duration" : 103981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da624d2cd3932b9c95b22b65728c0972"
+    }, {
+      "name" : "VacantBuildingTest",
+      "children" : [ {
+        "name" : "vacantBuildingPremiumVerfification",
+        "uid" : "bb4d3e5c553090f3",
+        "parentUid" : "c63585bfeec675ae9cd6dc6924815229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591784380429,
+          "stop" : 1591784576163,
+          "duration" : 195734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c63585bfeec675ae9cd6dc6924815229"
+    }, {
+      "name" : "VacantLandTest",
+      "children" : [ {
+        "name" : "vacantLandPremiumVerfification",
+        "uid" : "915127eeb9d263c2",
+        "parentUid" : "13cdce7868f638c2232db304ecb3a5b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591786185326,
+          "stop" : 1591786336095,
+          "duration" : 150769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13cdce7868f638c2232db304ecb3a5b1"
+    } ],
+    "uid" : "com.testbroker.scripts"
+  } ]
+}

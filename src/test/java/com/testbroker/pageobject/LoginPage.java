@@ -54,26 +54,26 @@ public class LoginPage  {
 	public void usernameField(String username) throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitForClickable(driver, 20, usernameField);
 		//WaitStatementLib.threadSleepOfEightSec();
-		Thread.sleep(15000);
+		Thread.sleep(10000);
 		usernameField.sendKeys(username);
 	}
 	@Step("User has enter the password: {0} successfully....")
 	public void passwordField(String password) throws InterruptedException{
-		Thread.sleep(5000);
+		WaitStatementLib.threadSleepOfTwoSec();
 		passwordField.sendKeys(password);
 
 	}
 	@Step("User has clicked on login button....")
 	public void LoginClick() throws InterruptedException{
 		//WaitStatementLib.explicitlyWaitVisibilityOf(driver1, 20, loginButton);
-		Thread.sleep(5000);
+		WaitStatementLib.threadSleepOfFourSec();
 		loginButton.click();
 	}
 	
 	@Step("User has clicked on authorize button to land on login screen step....")
 	public void authorizeButton() throws InterruptedException{
-		//WaitStatementLib.explicitlyWaitVisibilityOf(driver1, 20, loginButton);
-		Thread.sleep(10000);
+		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 20, authorize);
+WaitStatementLib.threadSleepOfEightSec();
 		authorize.click();
 	}
 	

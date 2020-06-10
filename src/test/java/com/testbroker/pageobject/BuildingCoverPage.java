@@ -86,10 +86,12 @@ public class BuildingCoverPage {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
+	
 	@Step("User clicks on Use entered mailing address checkbox....")
 	public void usemailingAddress(){
 		useAddressCheckBox.click();
 	}
+	
 	@Step("User clicks on Manually enter the address Checkbx....")
 	public void manualAddressCheckbox(){
 		manualAddressCheckbox.click();
@@ -106,7 +108,7 @@ public class BuildingCoverPage {
 	public void scroll(){
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		//js.executeScript("arguments[0].scrollIntoView();", buildingvacant12month);
-		js.executeScript("window.scrollBy(0,1000)");
+		js.executeScript("window.scrollBy(0,500)");
 	}
 	@Step("User selects Frame/Timber option from Construction Type....")
 	public void frameTimberClick() throws InterruptedException{
@@ -115,9 +117,9 @@ public class BuildingCoverPage {
 	}
 	@Step("User selects 1-4 from FUS score dropdown....")
 	public void fuscSore() throws InterruptedException{
-		WaitStatementLib.threadSleepOfFourSec();
+		WaitStatementLib.threadSleepOfTwoSec();
 		fusScore.click();
-		WaitStatementLib.threadSleepOfFourSec();
+		WaitStatementLib.threadSleepOfTwoSec();
 		score.click();
 	}
 	@Step("User entered Total Insured Value: {0}....")
@@ -153,28 +155,24 @@ public class BuildingCoverPage {
 
 	@Step("User selects No for insurance cancelled previously")
 	public void insuranceOption() throws InterruptedException{
-		WaitStatementLib.threadSleepOfFourSec();
-
+		WaitStatementLib.threadSleepOfTwoSec();
 		insuranceoption.click();
 	}
 
 	@Step("User selects 0 for GL claims")
 	public void zeroClaim() throws InterruptedException{
-		WaitStatementLib.threadSleepOfFourSec();
-
+		WaitStatementLib.threadSleepOfTwoSec();
 		zerocliam.click();
 	}
 
 	@Step("User selects amount 1000,000$ for General Liability limit")
 	public void limitRequired() throws InterruptedException{
-		WaitStatementLib.threadSleepOfFourSec();
-
+		WaitStatementLib.threadSleepOfTwoSec();
 		limitrequired.click();
 	}
 	@Step("User selects amount 1000$ for General Liability deductible")
 	public void deductableRequired() throws InterruptedException{
-		WaitStatementLib.threadSleepOfFourSec();
-
+		WaitStatementLib.threadSleepOfTwoSec();
 		deductiblerequired.click();
 	}
 
@@ -185,7 +183,7 @@ public class BuildingCoverPage {
 	}
 	@Step("User selects 0 as mortgages secured")
 	public void mortageOrLoan() throws InterruptedException{
-		WaitStatementLib.threadSleepOfEightSec();
+		WaitStatementLib.threadSleepOfFourSec();
 		mortageorloan.click();
 	}
 

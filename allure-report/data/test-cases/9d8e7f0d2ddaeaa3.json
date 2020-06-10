@@ -1,0 +1,1082 @@
+{
+  "uid" : "9d8e7f0d2ddaeaa3",
+  "name" : "validLoginTest",
+  "fullName" : "com.testbroker.scripts.LoginTest.validLoginTest",
+  "historyId" : "e7e2c56f74db8ed312a53fdd09cd2bdb",
+  "time" : {
+    "start" : 1591700002920,
+    "stop" : 1591700280880,
+    "duration" : 277960
+  },
+  "description" : "Test Case Description: To verify when user is able to login with correct username and passowrd",
+  "descriptionHtml" : "<p>Test Case Description: To verify when user is able to login with correct username and passowrd</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "preCondition",
+    "time" : {
+      "start" : 1591699945865,
+      "stop" : 1591700002736,
+      "duration" : 56871
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591699967422,
+        "stop" : 1591699967548,
+        "duration" : 126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "2.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591699968505,
+        "stop" : 1591699968643,
+        "duration" : 138
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "emailField",
+        "value" : "kalpana.kaushik@impactqa.com"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "4.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591699973738,
+        "stop" : 1591699973778,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "5.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591699973778,
+        "stop" : 1591699973822,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: To verify when user is able to login with correct username and passowrd",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "User has clicked on Proceed to Dashboard button....",
+      "time" : {
+        "start" : 1591700002933,
+        "stop" : 1591700003084,
+        "duration" : 151
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the username: testuser2@aegislondon.co.uk successfully....",
+      "time" : {
+        "start" : 1591700003140,
+        "stop" : 1591700076769,
+        "duration" : 73629
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "testuser2@aegislondon.co.uk"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the password: q961Vj7?8Bwg successfully....",
+      "time" : {
+        "start" : 1591700076809,
+        "stop" : 1591700081962,
+        "duration" : 5153
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "q961Vj7?8Bwg"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on login button....",
+      "time" : {
+        "start" : 1591700081963,
+        "stop" : 1591700087025,
+        "duration" : 5062
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on authorize button to land on login screen step....",
+      "time" : {
+        "start" : 1591700087026,
+        "stop" : 1591700097077,
+        "duration" : 10051
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on Get A Quotes....",
+      "time" : {
+        "start" : 1591700097106,
+        "stop" : 1591700111975,
+        "duration" : 14869
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on vacant building icon....",
+      "time" : {
+        "start" : 1591700111976,
+        "stop" : 1591700113229,
+        "duration" : 1253
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on vacant building icon....",
+      "time" : {
+        "start" : 1591700113271,
+        "stop" : 1591700117560,
+        "duration" : 4289
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700117561,
+        "stop" : 1591700117721,
+        "duration" : 160
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on inception date field....",
+      "time" : {
+        "start" : 1591700117722,
+        "stop" : 1591700117889,
+        "duration" : 167
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has select the current date from the calendar....",
+      "time" : {
+        "start" : 1591700117889,
+        "stop" : 1591700118071,
+        "duration" : 182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700118072,
+        "stop" : 1591700118218,
+        "duration" : 146
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on Yes button....",
+      "time" : {
+        "start" : 1591700118220,
+        "stop" : 1591700118462,
+        "duration" : 242
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Target Price Field :10000....",
+      "time" : {
+        "start" : 1591700118527,
+        "stop" : 1591700126724,
+        "duration" : 8197
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "value",
+        "value" : "10000"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700126724,
+        "stop" : 1591700126898,
+        "duration" : 174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Full Name : Henry Smith....",
+      "time" : {
+        "start" : 1591700126930,
+        "stop" : 1591700143106,
+        "duration" : 16176
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "fullname",
+        "value" : "Henry Smith"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the mailing address....",
+      "time" : {
+        "start" : 1591700143214,
+        "stop" : 1591700157413,
+        "duration" : 14199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "address",
+        "value" : "Canada Way"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has selected the checked for manually entering the address....",
+      "time" : {
+        "start" : 1591700157414,
+        "stop" : 1591700163549,
+        "duration" : 6135
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the street Number :567....",
+      "time" : {
+        "start" : 1591700163581,
+        "stop" : 1591700169708,
+        "duration" : 6127
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "street",
+        "value" : "567"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Zip Code :V5G....",
+      "time" : {
+        "start" : 1591700169731,
+        "stop" : 1591700175829,
+        "duration" : 6098
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "zip",
+        "value" : "V5G"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700175829,
+        "stop" : 1591700176015,
+        "duration" : 186
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has selected the checked for manually entering the address....",
+      "time" : {
+        "start" : 1591700176081,
+        "stop" : 1591700182183,
+        "duration" : 6102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on Use entered mailing address checkbox....",
+      "time" : {
+        "start" : 1591700182184,
+        "stop" : 1591700182290,
+        "duration" : 106
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the street Number :567....",
+      "time" : {
+        "start" : 1591700182319,
+        "stop" : 1591700188445,
+        "duration" : 6126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "street",
+        "value" : "567"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Zip Code :V5G....",
+      "time" : {
+        "start" : 1591700188464,
+        "stop" : 1591700194578,
+        "duration" : 6114
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "zip",
+        "value" : "V5G"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591700194579,
+        "stop" : 1591700194585,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on No option for builiding Vacant for 12 months option....",
+      "time" : {
+        "start" : 1591700194585,
+        "stop" : 1591700194675,
+        "duration" : 90
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on No option for demolition during the policy period....",
+      "time" : {
+        "start" : 1591700194676,
+        "stop" : 1591700194751,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700194752,
+        "stop" : 1591700194891,
+        "duration" : 139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects Frame/Timber option from Construction Type....",
+      "time" : {
+        "start" : 1591700194892,
+        "stop" : 1591700199054,
+        "duration" : 4162
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 1-4 from FUS score dropdown....",
+      "time" : {
+        "start" : 1591700199054,
+        "stop" : 1591700207310,
+        "duration" : 8256
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User entered Total Insured Value: 1000....",
+      "time" : {
+        "start" : 1591700207341,
+        "stop" : 1591700215503,
+        "duration" : 8162
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "totalvalue",
+        "value" : "1000"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects first option:1000$ for deductible required ",
+      "time" : {
+        "start" : 1591700215504,
+        "stop" : 1591700217581,
+        "duration" : 2077
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects :Under 15 years from Building Age ",
+      "time" : {
+        "start" : 1591700217582,
+        "stop" : 1591700219657,
+        "duration" : 2075
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on All Risks option for Required Cover level",
+      "time" : {
+        "start" : 1591700219657,
+        "stop" : 1591700221715,
+        "duration" : 2058
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700221716,
+        "stop" : 1591700221871,
+        "duration" : 155
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects No for insurance cancelled previously",
+      "time" : {
+        "start" : 1591700221872,
+        "stop" : 1591700225926,
+        "duration" : 4054
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 0 as previous losses",
+      "time" : {
+        "start" : 1591700225927,
+        "stop" : 1591700227990,
+        "duration" : 2063
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 0 as mortgages secured",
+      "time" : {
+        "start" : 1591700227991,
+        "stop" : 1591700236042,
+        "duration" : 8051
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591700236042,
+        "stop" : 1591700236152,
+        "duration" : 110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects Yes for general liability cover ",
+      "time" : {
+        "start" : 1591700236152,
+        "stop" : 1591700238217,
+        "duration" : 2065
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591700238217,
+        "stop" : 1591700238225,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 0 for GL claims",
+      "time" : {
+        "start" : 1591700238226,
+        "stop" : 1591700242311,
+        "duration" : 4085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects amount 1000,000$ for General Liability limit",
+      "time" : {
+        "start" : 1591700242312,
+        "stop" : 1591700246381,
+        "duration" : 4069
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects amount 1000$ for General Liability deductible",
+      "time" : {
+        "start" : 1591700246382,
+        "stop" : 1591700250443,
+        "duration" : 4061
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on Get Quote button... ",
+      "time" : {
+        "start" : 1591700250443,
+        "stop" : 1591700252543,
+        "duration" : 2100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on checkbox to confirm",
+      "time" : {
+        "start" : 1591700252544,
+        "stop" : 1591700254602,
+        "duration" : 2058
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks to proceed button",
+      "time" : {
+        "start" : 1591700254603,
+        "stop" : 1591700256725,
+        "duration" : 2122
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User verifies Gross Amount generated",
+      "time" : {
+        "start" : 1591700256726,
+        "stop" : 1591700272842,
+        "duration" : 16116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 49,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "postCondition",
+    "time" : {
+      "start" : 1591700280908,
+      "stop" : 1591700280908,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testbroker.scripts.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testbroker.scripts.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validLoginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testbroker.scripts.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "Shubham-Verma"
+  }, {
+    "name" : "thread",
+    "value" : "14220@Shubham-Verma.TestNG-test=Test-1(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check login page functionality"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "4b32747d63b2fae7",
+      "status" : "broken",
+      "statusDetails" : "element not visible\n  (Session info: chrome=83.0.4103.97)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.97, webStorageEnabled: true}\nSession ID: 2503b857c25b886187efe1c2809a3822",
+      "time" : {
+        "start" : 1591698722836,
+        "stop" : 1591698831491,
+        "duration" : 108655
+      }
+    }, {
+      "uid" : "ae91cd27dca72085",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591696869353,
+        "stop" : 1591697122336,
+        "duration" : 252983
+      }
+    }, {
+      "uid" : "93312dadb968de9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591696091240,
+        "stop" : 1591696349061,
+        "duration" : 257821
+      }
+    }, {
+      "uid" : "92030771439f047d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591693476019,
+        "stop" : 1591693759289,
+        "duration" : 283270
+      }
+    }, {
+      "uid" : "4a027adf0ef974ca",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='dismiss-btn']' (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1591693286878,
+        "stop" : 1591693354137,
+        "duration" : 67259
+      }
+    }, {
+      "uid" : "6b46b5412930840a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591691452476,
+        "stop" : 1591691692222,
+        "duration" : 239746
+      }
+    }, {
+      "uid" : "4c0128b27a0bbe71",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Element <div class=\"v-list-item__title navbar-text-aegis--text\">...</div> is not clickable at point (165, 448). Other element would receive the click: <div class=\"v-overlay__scrim blue-grey darken-4\" style=\"opacity:100;\"></div>\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: df4bd969ec6479887bfeefe55f9f2b7a",
+      "time" : {
+        "start" : 1591689370601,
+        "stop" : 1591689459483,
+        "duration" : 88882
+      }
+    }, {
+      "uid" : "3b680f6f4018999e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591688409461,
+        "stop" : 1591688631544,
+        "duration" : 222083
+      }
+    }, {
+      "uid" : "7a1125ff6259276a",
+      "status" : "skipped",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: 221855fb251552147fbae09f515caa4d\n*** Element info: {Using=xpath, value=//span[text()='Log in']}",
+      "time" : {
+        "start" : 1591688317463,
+        "stop" : 1591688317464,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "24658f874ea3ca82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591687857312,
+        "stop" : 1591688095328,
+        "duration" : 238016
+      }
+    }, {
+      "uid" : "4beb4d0a9b59740e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//div[text()='Current total gross premium']/..//preceding-sibling::div)[2]\"}\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: c20375ea86b2c539a9a056118f58a1e7\n*** Element info: {Using=xpath, value=(//div[text()='Current total gross premium']/..//preceding-sibling::div)[2]}",
+      "time" : {
+        "start" : 1591687279667,
+        "stop" : 1591687490664,
+        "duration" : 210997
+      }
+    }, {
+      "uid" : "a653fa99051741cf",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//div[text()='Current total gross premium']/..//preceding-sibling::div)[2]\"}\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: ef3f6285accc392d11fc19742947775c\n*** Element info: {Using=xpath, value=(//div[text()='Current total gross premium']/..//preceding-sibling::div)[2]}",
+      "time" : {
+        "start" : 1591686891769,
+        "stop" : 1591687116386,
+        "duration" : 224617
+      }
+    }, {
+      "uid" : "7fc18ea822c88f9e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='v-window-item v-window-item--active']//div[contains(text(),'0')]\"}\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: 5c98d93b6b3ffe10921c614ef1a57875\n*** Element info: {Using=xpath, value=//div[@class='v-window-item v-window-item--active']//div[contains(text(),'0')]}",
+      "time" : {
+        "start" : 1591686493665,
+        "stop" : 1591686725674,
+        "duration" : 232009
+      }
+    }, {
+      "uid" : "d998752b5187aa82",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='v-window-item v-window-item--active']//div[contains(text(),'CA$ 1,000,000')]\"}\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: 27df05b6070d7fb22728f42141a37e3e\n*** Element info: {Using=xpath, value=//div[@class='v-window-item v-window-item--active']//div[contains(text(),'CA$ 1,000,000')]}",
+      "time" : {
+        "start" : 1591686119697,
+        "stop" : 1591686318023,
+        "duration" : 198326
+      }
+    }, {
+      "uid" : "27cfc1d1dffb0239",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='v-window-item v-window-item--active']//div[contains(text(),'CA$ 1,000,000')]\"}\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: 60facd462dd1bf4fcaed85534f87d6a2\n*** Element info: {Using=xpath, value=//div[@class='v-window-item v-window-item--active']//div[contains(text(),'CA$ 1,000,000')]}",
+      "time" : {
+        "start" : 1591685618747,
+        "stop" : 1591685802284,
+        "duration" : 183537
+      }
+    }, {
+      "uid" : "edb47f35b6a2bd46",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='v-window-item v-window-item--active']//div[contains(text(),'Yes')]\"}\n  (Session info: chrome=83.0.4103.61)\n  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SHUBHAM-VERMA', ip: '192.168.43.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\Shubham\\AppData\\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.61, webStorageEnabled: true}\nSession ID: 1d5232260b965f2330ae5b9be209690e\n*** Element info: {Using=xpath, value=//div[@class='v-window-item v-window-item--active']//div[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1591685279391,
+        "stop" : 1591685459408,
+        "duration" : 180017
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d8e7f0d2ddaeaa3.json",
+  "parameterValues" : [ "chrome" ]
+}

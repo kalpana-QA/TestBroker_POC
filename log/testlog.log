@@ -812,3 +812,354 @@
 2020-06-09 16:48:00,027 - testbroker -INFO - User has select the confirm checkbox
 2020-06-09 16:48:02,154 - testbroker -INFO - User has select the proceed
 2020-06-09 16:48:18,237 - testbroker -INFO - User has verify the gross amount
+2020-06-10 11:01:33,106 - testbroker -INFO - URL is opened
+2020-06-10 11:03:15,063 - testbroker -INFO - Entered username
+2020-06-10 11:03:20,218 - testbroker -INFO - Entered password
+2020-06-10 11:03:25,279 - testbroker -INFO - User has clicked on login Button
+2020-06-10 11:03:35,333 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 11:03:51,205 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 11:16:05,520 - testbroker -INFO - URL is opened
+2020-06-10 11:24:48,476 - testbroker -INFO - URL is opened
+2020-06-10 11:26:31,361 - testbroker -INFO - Entered username
+2020-06-10 11:26:36,544 - testbroker -INFO - Entered password
+2020-06-10 11:26:41,612 - testbroker -INFO - User has clicked on login Button
+2020-06-10 11:26:51,671 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 11:27:02,699 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 11:27:04,101 - testbroker -INFO - User has clicked on next Button
+2020-06-10 11:27:11,713 - testbroker -INFO - User has clicked on next Button
+2020-06-10 11:27:12,525 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 11:27:12,677 - testbroker -INFO - User has clicked on next button
+2020-06-10 11:27:12,896 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 11:27:21,215 - testbroker -INFO - User has enter the set target price
+2020-06-10 11:27:21,419 - testbroker -INFO - User has clicked next button
+2020-06-10 11:27:37,700 - testbroker -INFO - User has enter the fullname
+2020-06-10 11:27:51,990 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 11:27:58,160 - testbroker -INFO - User has selected the checkbox
+2020-06-10 11:28:04,334 - testbroker -INFO - User has enter the street name
+2020-06-10 11:28:10,488 - testbroker -INFO - User has enter the zip code
+2020-06-10 11:28:10,760 - testbroker -INFO - User has clicked on next button
+2020-06-10 11:28:16,969 - testbroker -INFO - User has select the checkbox
+2020-06-10 11:28:17,118 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 11:28:23,318 - testbroker -INFO - User has enter the street name
+2020-06-10 11:35:12,786 - testbroker -INFO - URL is opened
+2020-06-10 11:36:33,849 - testbroker -INFO - URL is opened
+2020-06-10 11:39:34,673 - testbroker -INFO - URL is opened
+2020-06-10 11:41:06,596 - testbroker -INFO - Entered username
+2020-06-10 11:41:08,823 - testbroker -INFO - Entered password
+2020-06-10 11:41:12,895 - testbroker -INFO - User has clicked on login Button
+2020-06-10 11:41:17,173 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 11:41:28,874 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 11:41:29,980 - testbroker -INFO - User has clicked on next Button
+2020-06-10 11:41:33,929 - testbroker -INFO - User has clicked on next Button
+2020-06-10 11:41:34,748 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 11:41:34,882 - testbroker -INFO - User has clicked on next button
+2020-06-10 11:41:35,516 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 11:41:39,794 - testbroker -INFO - User has enter the set target price
+2020-06-10 11:41:40,010 - testbroker -INFO - User has clicked next button
+2020-06-10 11:41:52,284 - testbroker -INFO - User has enter the fullname
+2020-06-10 11:42:02,595 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 11:42:08,734 - testbroker -INFO - User has selected the checkbox
+2020-06-10 11:42:12,912 - testbroker -INFO - User has enter the street name
+2020-06-10 11:42:17,084 - testbroker -INFO - User has enter the zip code
+2020-06-10 11:42:17,311 - testbroker -INFO - User has clicked on next button
+2020-06-10 11:42:21,460 - testbroker -INFO - User has select the checkbox
+2020-06-10 11:42:21,630 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 11:42:25,780 - testbroker -INFO - User has enter the street name
+2020-06-10 11:45:33,266 - testbroker -INFO - URL is opened
+2020-06-10 11:46:48,788 - testbroker -INFO - Entered username
+2020-06-10 11:46:50,988 - testbroker -INFO - Entered password
+2020-06-10 11:46:55,069 - testbroker -INFO - User has clicked on login Button
+2020-06-10 11:46:59,404 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 11:47:11,797 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 11:47:12,994 - testbroker -INFO - User has clicked on next Button
+2020-06-10 11:49:40,824 - testbroker -INFO - URL is opened
+2020-06-10 11:50:46,021 - testbroker -INFO - Entered username
+2020-06-10 11:50:48,259 - testbroker -INFO - Entered password
+2020-06-10 11:50:52,336 - testbroker -INFO - User has clicked on login Button
+2020-06-10 11:54:13,994 - testbroker -INFO - URL is opened
+2020-06-10 11:56:02,041 - testbroker -INFO - Entered username
+2020-06-10 11:56:04,222 - testbroker -INFO - Entered password
+2020-06-10 11:56:08,282 - testbroker -INFO - User has clicked on login Button
+2020-06-10 11:56:08,396 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 12:08:57,887 - testbroker -INFO - URL is opened
+2020-06-10 12:09:50,005 - testbroker -INFO - Entered username
+2020-06-10 12:09:52,227 - testbroker -INFO - Entered password
+2020-06-10 12:09:56,293 - testbroker -INFO - User has clicked on login Button
+2020-06-10 12:10:04,374 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 12:10:12,516 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 12:10:13,789 - testbroker -INFO - User has clicked on next Button
+2020-06-10 12:10:31,518 - testbroker -INFO - User has clicked on next Button
+2020-06-10 12:10:31,907 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 12:10:32,066 - testbroker -INFO - User has clicked on next button
+2020-06-10 12:10:32,232 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 12:10:36,518 - testbroker -INFO - User has enter the set target price
+2020-06-10 12:10:36,711 - testbroker -INFO - User has clicked next button
+2020-06-10 12:10:48,940 - testbroker -INFO - User has enter the fullname
+2020-06-10 12:10:59,172 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 12:11:05,324 - testbroker -INFO - User has selected the checkbox
+2020-06-10 12:11:09,459 - testbroker -INFO - User has enter the street name
+2020-06-10 12:11:13,588 - testbroker -INFO - User has enter the zip code
+2020-06-10 12:11:13,782 - testbroker -INFO - User has clicked on next button
+2020-06-10 12:11:17,905 - testbroker -INFO - User has select the checkbox
+2020-06-10 12:11:18,016 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 12:11:22,125 - testbroker -INFO - User has enter the street name
+2020-06-10 12:11:29,523 - testbroker -INFO - User has select the general liability cover
+2020-06-10 12:11:29,539 - testbroker -INFO - User has scroll
+2020-06-10 12:11:31,606 - testbroker -INFO - User has select the zero claim
+2020-06-10 12:11:33,675 - testbroker -INFO - User has select the limit required value
+2020-06-10 12:11:35,747 - testbroker -INFO - User has select the deductable required value
+2020-06-10 12:11:37,834 - testbroker -INFO - User has select the get the quote button
+2020-06-10 12:11:39,884 - testbroker -INFO - User has select the confirm checkbox
+2020-06-10 12:11:41,988 - testbroker -INFO - User has select the proceed
+2020-06-10 12:14:06,165 - testbroker -INFO - URL is opened
+2020-06-10 12:15:48,351 - testbroker -INFO - Entered username
+2020-06-10 12:15:50,525 - testbroker -INFO - Entered password
+2020-06-10 12:15:54,585 - testbroker -INFO - User has clicked on login Button
+2020-06-10 12:16:02,654 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 12:16:10,751 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 12:16:11,467 - testbroker -INFO - User has clicked on next Button
+2020-06-10 12:16:15,819 - testbroker -INFO - User has clicked on next Button
+2020-06-10 12:16:16,063 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 12:16:16,183 - testbroker -INFO - User has clicked on next button
+2020-06-10 12:16:16,321 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 12:16:20,529 - testbroker -INFO - User has enter the set target price
+2020-06-10 12:16:20,715 - testbroker -INFO - User has clicked next button
+2020-06-10 12:16:32,906 - testbroker -INFO - User has enter the fullname
+2020-06-10 12:16:43,105 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 12:16:49,209 - testbroker -INFO - User has selected the checkbox
+2020-06-10 12:16:53,369 - testbroker -INFO - User has enter the street name
+2020-06-10 12:16:57,495 - testbroker -INFO - User has enter the zip code
+2020-06-10 12:16:57,667 - testbroker -INFO - User has clicked on next button
+2020-06-10 12:17:01,789 - testbroker -INFO - User has select the checkbox
+2020-06-10 12:17:01,924 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 12:17:06,054 - testbroker -INFO - User has enter the street name
+2020-06-10 12:17:12,953 - testbroker -INFO - User has select the general liability cover
+2020-06-10 12:17:12,962 - testbroker -INFO - User has scroll
+2020-06-10 12:17:15,044 - testbroker -INFO - User has select the zero claim
+2020-06-10 12:17:17,106 - testbroker -INFO - User has select the limit required value
+2020-06-10 12:17:19,180 - testbroker -INFO - User has select the deductable required value
+2020-06-10 12:17:21,288 - testbroker -INFO - User has select the get the quote button
+2020-06-10 12:17:23,339 - testbroker -INFO - User has select the confirm checkbox
+2020-06-10 12:17:25,439 - testbroker -INFO - User has select the proceed
+2020-06-10 12:40:03,402 - testbroker -INFO - URL is opened
+2020-06-10 12:40:30,622 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 12:40:40,917 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 13:36:40,924 - testbroker -INFO - URL is opened
+2020-06-10 13:36:54,176 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 13:37:02,432 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 14:14:06,877 - testbroker -INFO - URL is opened
+2020-06-10 14:14:33,075 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 14:14:46,066 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 14:17:55,943 - testbroker -INFO - URL is opened
+2020-06-10 14:18:25,322 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 14:18:41,139 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 14:21:34,916 - testbroker -INFO - URL is opened
+2020-06-10 14:21:55,666 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 14:22:12,428 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 14:30:30,574 - testbroker -INFO - URL is opened
+2020-06-10 14:30:48,555 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 14:31:02,975 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 14:46:49,294 - testbroker -INFO - URL is opened
+2020-06-10 14:47:32,998 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 14:47:55,801 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 14:53:43,405 - testbroker -INFO - URL is opened
+2020-06-10 14:54:08,993 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 14:54:24,977 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 15:02:46,774 - testbroker -INFO - URL is opened
+2020-06-10 15:03:18,885 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 15:03:35,234 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 15:03:49,001 - testbroker -INFO - User has been click on Shope Dofe Shopping Link
+2020-06-10 15:03:59,838 - testbroker -INFO - User has been click on Shop Now Button
+2020-06-10 15:06:48,318 - testbroker -INFO - URL is opened
+2020-06-10 15:07:18,809 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 15:07:35,166 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 15:07:51,945 - testbroker -INFO - User has been click on Shope Dofe Shopping Link
+2020-06-10 15:08:03,115 - testbroker -INFO - User has been click on Shop Now Button
+2020-06-10 15:08:14,404 - testbroker -INFO - User has been click on Buy Link
+2020-06-10 15:08:22,474 - testbroker -INFO - User has been click on Agree Checkbox
+2020-06-10 15:08:38,901 - testbroker -INFO - User has been click on Add To Basket Button
+2020-06-10 15:16:12,968 - testbroker -INFO - URL is opened
+2020-06-10 15:16:34,925 - testbroker -INFO - User has been click on Dofe Shopping Link
+2020-06-10 15:16:52,280 - testbroker -INFO - User has been click on Dofe Clothing Link
+2020-06-10 15:17:07,038 - testbroker -INFO - User has been click on Shope Dofe Shopping Link
+2020-06-10 15:17:19,011 - testbroker -INFO - User has been click on Shop Now Button
+2020-06-10 15:17:32,240 - testbroker -INFO - User has been click on Buy Link
+2020-06-10 15:17:40,331 - testbroker -INFO - User has been click on Agree Checkbox
+2020-06-10 15:28:58,063 - testbroker -INFO - URL is opened
+2020-06-10 15:30:11,914 - testbroker -INFO - Entered username
+2020-06-10 15:30:14,141 - testbroker -INFO - Entered password
+2020-06-10 15:30:18,213 - testbroker -INFO - User has clicked on login Button
+2020-06-10 15:30:26,279 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 15:32:29,955 - testbroker -INFO - URL is opened
+2020-06-10 15:33:25,053 - testbroker -INFO - Entered username
+2020-06-10 15:33:27,224 - testbroker -INFO - Entered password
+2020-06-10 15:33:31,298 - testbroker -INFO - User has clicked on login Button
+2020-06-10 15:33:39,401 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 15:33:54,480 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 15:33:55,508 - testbroker -INFO - User has clicked on next Button
+2020-06-10 15:33:59,191 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-10 15:33:59,375 - testbroker -INFO - User has clicked on next Button
+2020-06-10 15:33:59,744 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 15:33:59,878 - testbroker -INFO - User has clicked on next button
+2020-06-10 15:34:00,173 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 15:34:04,622 - testbroker -INFO - User has enter the set target price
+2020-06-10 15:34:04,790 - testbroker -INFO - User has clicked next button
+2020-06-10 15:34:17,034 - testbroker -INFO - User has enter the fullname
+2020-06-10 15:34:27,323 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 15:34:33,517 - testbroker -INFO - User has selected the checkbox
+2020-06-10 15:34:37,657 - testbroker -INFO - User has enter the street name
+2020-06-10 15:34:41,819 - testbroker -INFO - User has enter the zip code
+2020-06-10 15:34:42,022 - testbroker -INFO - User has clicked on next button
+2020-06-10 15:34:46,373 - testbroker -INFO - User has select the checkbox
+2020-06-10 15:34:46,485 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 15:34:50,643 - testbroker -INFO - User has enter the street name
+2020-06-10 15:34:54,812 - testbroker -INFO - User has enter the zipcode
+2020-06-10 15:34:54,823 - testbroker -INFO - User has scroll
+2020-06-10 15:34:54,914 - testbroker -INFO - User has select the building option
+2020-06-10 15:34:55,003 - testbroker -INFO - User has select the demolition
+2020-06-10 15:34:55,139 - testbroker -INFO - User has select the frame and timber option
+2020-06-10 15:34:59,331 - testbroker -INFO - User has enter the set target price
+2020-06-10 15:34:59,331 - testbroker -INFO - User has scroll
+2020-06-10 15:35:03,621 - testbroker -INFO - User has select the fus score
+2020-06-10 15:35:11,903 - testbroker -INFO - User has enter the total insured value
+2020-06-10 15:35:14,017 - testbroker -INFO - User has select the ca value
+2020-06-10 15:35:16,119 - testbroker -INFO - User has select the building age
+2020-06-10 15:35:18,216 - testbroker -INFO - User has select the all the risk value
+2020-06-10 15:35:18,374 - testbroker -INFO - User has select the next button
+2020-06-10 15:35:20,467 - testbroker -INFO - User has select the insurance option
+2020-06-10 15:35:22,558 - testbroker -INFO - User has select the loss value
+2020-06-10 15:35:26,649 - testbroker -INFO - User has select the mortage or loan
+2020-06-10 15:35:26,765 - testbroker -INFO - User has select the next button
+2020-06-10 15:35:28,833 - testbroker -INFO - User has select the general liability cover
+2020-06-10 15:35:28,844 - testbroker -INFO - User has scroll
+2020-06-10 15:35:30,946 - testbroker -INFO - User has select the zero claim
+2020-06-10 15:35:33,067 - testbroker -INFO - User has select the limit required value
+2020-06-10 15:35:35,153 - testbroker -INFO - User has select the deductable required value
+2020-06-10 15:35:37,267 - testbroker -INFO - User has select the get the quote button
+2020-06-10 15:35:39,345 - testbroker -INFO - User has select the confirm checkbox
+2020-06-10 15:35:41,502 - testbroker -INFO - User has select the proceed
+2020-06-10 15:35:57,754 - testbroker -INFO - User has verify the gross amount
+2020-06-10 15:49:40,431 - testbroker -INFO - URL is opened
+2020-06-10 15:50:24,600 - testbroker -INFO - Entered username
+2020-06-10 15:50:26,957 - testbroker -INFO - Entered password
+2020-06-10 15:50:31,037 - testbroker -INFO - User has clicked on login Button
+2020-06-10 15:50:39,128 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 15:50:47,336 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 15:50:48,554 - testbroker -INFO - User has clicked on next Button
+2020-06-10 15:50:51,478 - testbroker -INFO - User has clicked on vacant building Icon
+2020-06-10 15:50:51,675 - testbroker -INFO - User has clicked on next Button
+2020-06-10 15:50:52,074 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 15:50:52,237 - testbroker -INFO - User has clicked on next button
+2020-06-10 15:50:52,721 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 15:50:57,070 - testbroker -INFO - User has enter the set target price
+2020-06-10 15:50:57,261 - testbroker -INFO - User has clicked next button
+2020-06-10 15:51:09,529 - testbroker -INFO - User has enter the fullname
+2020-06-10 15:51:19,800 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 15:51:25,935 - testbroker -INFO - User has selected the checkbox
+2020-06-10 15:51:30,119 - testbroker -INFO - User has enter the street name
+2020-06-10 15:51:34,317 - testbroker -INFO - User has enter the zip code
+2020-06-10 15:51:34,506 - testbroker -INFO - User has clicked on next button
+2020-06-10 15:51:38,634 - testbroker -INFO - User has select the checkbox
+2020-06-10 15:51:38,739 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 15:51:42,898 - testbroker -INFO - User has enter the street name
+2020-06-10 15:51:47,041 - testbroker -INFO - User has enter the zipcode
+2020-06-10 15:51:47,049 - testbroker -INFO - User has scroll
+2020-06-10 15:51:47,151 - testbroker -INFO - User has select the building option
+2020-06-10 15:51:47,242 - testbroker -INFO - User has select the demolition
+2020-06-10 15:51:47,480 - testbroker -INFO - User has select the frame and timber option
+2020-06-10 15:51:51,764 - testbroker -INFO - User has enter the set target price
+2020-06-10 15:51:51,764 - testbroker -INFO - User has scroll
+2020-06-10 15:51:56,042 - testbroker -INFO - User has select the fus score
+2020-06-10 15:52:04,342 - testbroker -INFO - User has enter the total insured value
+2020-06-10 15:52:06,438 - testbroker -INFO - User has select the ca value
+2020-06-10 15:52:08,539 - testbroker -INFO - User has select the building age
+2020-06-10 15:52:10,639 - testbroker -INFO - User has select the all the risk value
+2020-06-10 15:52:10,768 - testbroker -INFO - User has select the next button
+2020-06-10 15:52:12,869 - testbroker -INFO - User has select the insurance option
+2020-06-10 15:52:14,966 - testbroker -INFO - User has select the loss value
+2020-06-10 15:52:19,045 - testbroker -INFO - User has select the mortage or loan
+2020-06-10 15:52:19,151 - testbroker -INFO - User has select the next button
+2020-06-10 15:52:21,220 - testbroker -INFO - User has select the general liability cover
+2020-06-10 15:52:21,230 - testbroker -INFO - User has scroll
+2020-06-10 15:52:23,321 - testbroker -INFO - User has select the zero claim
+2020-06-10 15:52:25,405 - testbroker -INFO - User has select the limit required value
+2020-06-10 15:52:27,476 - testbroker -INFO - User has select the deductable required value
+2020-06-10 15:52:29,600 - testbroker -INFO - User has select the get the quote button
+2020-06-10 15:52:31,706 - testbroker -INFO - User has select the confirm checkbox
+2020-06-10 15:52:33,862 - testbroker -INFO - User has select the proceed
+2020-06-10 15:52:50,091 - testbroker -INFO - User has verify the gross amount
+2020-06-10 16:02:49,886 - testbroker -INFO - URL is opened
+2020-06-10 16:04:04,244 - testbroker -INFO - Entered username
+2020-06-10 16:04:06,448 - testbroker -INFO - Entered password
+2020-06-10 16:04:10,545 - testbroker -INFO - User has clicked on login Button
+2020-06-10 16:04:18,628 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 16:04:33,489 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 16:04:34,777 - testbroker -INFO - User has clicked on next Button
+2020-06-10 16:04:39,569 - testbroker -INFO - User has clicked on next Button
+2020-06-10 16:04:40,413 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 16:04:40,572 - testbroker -INFO - User has clicked on next button
+2020-06-10 16:04:40,829 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 16:04:45,227 - testbroker -INFO - User has enter the set target price
+2020-06-10 16:04:45,443 - testbroker -INFO - User has clicked next button
+2020-06-10 16:04:57,774 - testbroker -INFO - User has enter the fullname
+2020-06-10 16:05:08,092 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 16:05:14,257 - testbroker -INFO - User has selected the checkbox
+2020-06-10 16:05:18,419 - testbroker -INFO - User has enter the street name
+2020-06-10 16:05:22,576 - testbroker -INFO - User has enter the zip code
+2020-06-10 16:05:22,845 - testbroker -INFO - User has clicked on next button
+2020-06-10 16:05:27,018 - testbroker -INFO - User has select the checkbox
+2020-06-10 16:05:27,142 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 16:05:31,300 - testbroker -INFO - User has enter the street name
+2020-06-10 16:05:38,718 - testbroker -INFO - User has select the general liability cover
+2020-06-10 16:05:38,733 - testbroker -INFO - User has scroll
+2020-06-10 16:05:40,841 - testbroker -INFO - User has select the zero claim
+2020-06-10 16:05:42,937 - testbroker -INFO - User has select the limit required value
+2020-06-10 16:05:45,038 - testbroker -INFO - User has select the deductable required value
+2020-06-10 16:05:47,166 - testbroker -INFO - User has select the get the quote button
+2020-06-10 16:05:49,261 - testbroker -INFO - User has select the confirm checkbox
+2020-06-10 16:05:51,389 - testbroker -INFO - User has select the proceed
+2020-06-10 16:13:11,381 - testbroker -INFO - URL is opened
+2020-06-10 16:16:48,179 - testbroker -INFO - URL is opened
+2020-06-10 16:17:19,139 - testbroker -INFO - Entered username
+2020-06-10 16:17:21,354 - testbroker -INFO - Entered password
+2020-06-10 16:17:25,422 - testbroker -INFO - User has clicked on login Button
+2020-06-10 16:17:33,491 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 16:17:44,936 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 16:17:45,688 - testbroker -INFO - User has clicked on next Button
+2020-06-10 16:17:49,191 - testbroker -INFO - User has clicked on next Button
+2020-06-10 16:17:49,692 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 16:17:49,861 - testbroker -INFO - User has clicked on next button
+2020-06-10 16:17:50,132 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 16:17:54,342 - testbroker -INFO - User has enter the set target price
+2020-06-10 16:17:54,522 - testbroker -INFO - User has clicked next button
+2020-06-10 16:19:45,336 - testbroker -INFO - URL is opened
+2020-06-10 16:20:08,208 - testbroker -INFO - Entered username
+2020-06-10 16:20:10,450 - testbroker -INFO - Entered password
+2020-06-10 16:20:14,509 - testbroker -INFO - User has clicked on login Button
+2020-06-10 16:20:22,567 - testbroker -INFO - User has clicked on authorize Button
+2020-06-10 16:20:37,464 - testbroker -INFO - User has clicked on get A Quotes Icon
+2020-06-10 16:20:38,197 - testbroker -INFO - User has clicked on next Button
+2020-06-10 16:20:41,288 - testbroker -INFO - User has clicked on next Button
+2020-06-10 16:20:41,774 - testbroker -INFO - User has clicked on inception date field
+2020-06-10 16:20:41,919 - testbroker -INFO - User has clicked on next button
+2020-06-10 16:20:42,541 - testbroker -INFO - User has clicked on yes next button
+2020-06-10 16:20:46,809 - testbroker -INFO - User has enter the set target price
+2020-06-10 16:20:46,977 - testbroker -INFO - User has clicked next button
+2020-06-10 16:20:59,181 - testbroker -INFO - User has enter the fullname
+2020-06-10 16:21:09,413 - testbroker -INFO - User has enter the set mailing address
+2020-06-10 16:21:15,550 - testbroker -INFO - User has selected the checkbox
+2020-06-10 16:21:19,674 - testbroker -INFO - User has enter the street name
+2020-06-10 16:21:23,796 - testbroker -INFO - User has enter the zip code
+2020-06-10 16:21:24,021 - testbroker -INFO - User has clicked on next button
+2020-06-10 16:21:28,210 - testbroker -INFO - User has select the checkbox
+2020-06-10 16:21:28,322 - testbroker -INFO - User has select the use same mailing address
+2020-06-10 16:21:32,433 - testbroker -INFO - User has enter the street name
+2020-06-10 16:21:39,453 - testbroker -INFO - User has select the general liability cover
+2020-06-10 16:21:39,466 - testbroker -INFO - User has scroll
+2020-06-10 16:21:41,530 - testbroker -INFO - User has select the zero claim
+2020-06-10 16:21:43,633 - testbroker -INFO - User has select the limit required value
+2020-06-10 16:21:45,683 - testbroker -INFO - User has select the deductable required value
+2020-06-10 16:21:47,782 - testbroker -INFO - User has select the get the quote button
+2020-06-10 16:21:49,835 - testbroker -INFO - User has select the confirm checkbox
+2020-06-10 16:21:51,935 - testbroker -INFO - User has select the proceed
+2020-06-10 16:22:08,048 - testbroker -INFO - User has verify the gross amount

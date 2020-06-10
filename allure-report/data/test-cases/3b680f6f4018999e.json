@@ -1,0 +1,684 @@
+{
+  "uid" : "3b680f6f4018999e",
+  "name" : "validLoginTest",
+  "fullName" : "com.testbroker.scripts.LoginTest.validLoginTest",
+  "historyId" : "e7e2c56f74db8ed312a53fdd09cd2bdb",
+  "time" : {
+    "start" : 1591688409461,
+    "stop" : 1591688631544,
+    "duration" : 222083
+  },
+  "description" : "Test Case Description: To verify when user is able to login with correct username and passowrd",
+  "descriptionHtml" : "<p>Test Case Description: To verify when user is able to login with correct username and passowrd</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "preCondition",
+    "time" : {
+      "start" : 1591688344521,
+      "stop" : 1591688409261,
+      "duration" : 64740
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688368492,
+        "stop" : 1591688368931,
+        "duration" : 439
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "2.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688373759,
+        "stop" : 1591688373892,
+        "duration" : 133
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "emailField",
+        "value" : "kalpana.kaushik@impactqa.com"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "4.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688379003,
+        "stop" : 1591688379057,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "5.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688379057,
+        "stop" : 1591688379124,
+        "duration" : 67
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: To verify when user is able to login with correct username and passowrd",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688409712,
+        "stop" : 1591688409956,
+        "duration" : 244
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "2.Login with username: testuser2@aegislondon.co.uk step....",
+      "time" : {
+        "start" : 1591688410013,
+        "stop" : 1591688440129,
+        "duration" : 30116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "testuser2@aegislondon.co.uk"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "3.Login with password: q961Vj7?8Bwg step....",
+      "time" : {
+        "start" : 1591688440214,
+        "stop" : 1591688445358,
+        "duration" : 5144
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "q961Vj7?8Bwg"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "4.Click on login button to land on login screen step....",
+      "time" : {
+        "start" : 1591688445358,
+        "stop" : 1591688450433,
+        "duration" : 5075
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "4.Click on login button to land on login screen step....",
+      "time" : {
+        "start" : 1591688450434,
+        "stop" : 1591688460484,
+        "duration" : 10050
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Get A Quotes step....",
+      "time" : {
+        "start" : 1591688460685,
+        "stop" : 1591688471041,
+        "duration" : 10356
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on vacant icon step....",
+      "time" : {
+        "start" : 1591688471041,
+        "stop" : 1591688472515,
+        "duration" : 1474
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688473065,
+        "stop" : 1591688475910,
+        "duration" : 2845
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688475911,
+        "stop" : 1591688476047,
+        "duration" : 136
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688476047,
+        "stop" : 1591688476676,
+        "duration" : 629
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688476676,
+        "stop" : 1591688476837,
+        "duration" : 161
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688476837,
+        "stop" : 1591688476968,
+        "duration" : 131
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688476969,
+        "stop" : 1591688477146,
+        "duration" : 177
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688485403,
+        "stop" : 1591688485542,
+        "duration" : 139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688485578,
+        "stop" : 1591688501762,
+        "duration" : 16184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "fullname",
+        "value" : "Henry Smith"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688501787,
+        "stop" : 1591688515974,
+        "duration" : 14187
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "address",
+        "value" : "Canada Way"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688515974,
+        "stop" : 1591688522309,
+        "duration" : 6335
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688522337,
+        "stop" : 1591688528455,
+        "duration" : 6118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "street",
+        "value" : "567"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688528475,
+        "stop" : 1591688534573,
+        "duration" : 6098
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "zip",
+        "value" : "V5G"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688534574,
+        "stop" : 1591688534765,
+        "duration" : 191
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688541005,
+        "stop" : 1591688541126,
+        "duration" : 121
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688541153,
+        "stop" : 1591688547241,
+        "duration" : 6088
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "street",
+        "value" : "567"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688547262,
+        "stop" : 1591688553355,
+        "duration" : 6093
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "zip",
+        "value" : "V5G"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688553355,
+        "stop" : 1591688553378,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688553378,
+        "stop" : 1591688553460,
+        "duration" : 82
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688553461,
+        "stop" : 1591688553531,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688553531,
+        "stop" : 1591688553647,
+        "duration" : 116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688557819,
+        "stop" : 1591688557824,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "2.Login with username: 1000 step....",
+      "time" : {
+        "start" : 1591688566059,
+        "stop" : 1591688574228,
+        "duration" : 8169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "totalvalue",
+        "value" : "1000"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688580465,
+        "stop" : 1591688580595,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688594765,
+        "stop" : 1591688594876,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591688596936,
+        "stop" : 1591688596945,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 32,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "postCondition",
+    "time" : {
+      "start" : 1591688631567,
+      "stop" : 1591688631567,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testbroker.scripts.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testbroker.scripts.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validLoginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testbroker.scripts.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "Shubham-Verma"
+  }, {
+    "name" : "thread",
+    "value" : "5372@Shubham-Verma.TestNG-test=Test-1(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check login page functionality"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b680f6f4018999e.json",
+  "parameterValues" : [ "chrome" ]
+}

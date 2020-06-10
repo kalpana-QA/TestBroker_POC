@@ -18,7 +18,7 @@ import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import io.qameta.allure.Story;
 
-public class LoginTest extends BaseLib {
+public class VacantBuildingTest extends BaseLib {
 	static final String LoginCredentials = "LoginCredentials_Sheet";
 	@Test(priority=1)
 	@Severity(SeverityLevel.BLOCKER)
@@ -133,7 +133,7 @@ public class LoginTest extends BaseLib {
 		cover.verifyGrossAmount();
 		logger.info("User has verify the gross amount");
 		cover.highLightElement();
-		WaitStatementLib.threadSleepOfSixSec();
+		WaitStatementLib.threadSleepOfFourSec();
 
 	}
 

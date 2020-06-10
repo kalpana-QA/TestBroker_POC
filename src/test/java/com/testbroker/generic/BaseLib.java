@@ -25,7 +25,7 @@ import com.testbroker.pageobject.ZenmateVPNPage;
 
 public class BaseLib {
 	public WebDriver driver;
-	
+	//String project="TestBroker";
 	public static Logger logger;
 	static final String LoginCredentials = "LoginCredentials_Sheet";
 
@@ -42,22 +42,23 @@ public class BaseLib {
 //		else{
 //			if (browserName.equalsIgnoreCase("chrome")){
 				System.setProperty("webdriver.chrome.driver", ".\\exefiles\\chromedriver.exe");
+				// if(project.equalsIgnoreCase("TestBroker")){
 				ChromeOptions options = new ChromeOptions();
 		        options.addExtensions(new File(".\\exefiles\\ZenmateExtension.crx"));
 		         driver = new ChromeDriver(options);
 		        WaitStatementLib.threadSleepOfFourSec();
 
-		        Thread.sleep(5000);
+		        Thread.sleep(2000);
 
 		        ZenmateVPNPage zenmate= new ZenmateVPNPage(driver);
 		        zenmate.zenmateLoginButton();
 		        zenmate.emailField(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-Email", "Valid-Email"));
-		        Thread.sleep(5000);
+		        Thread.sleep(2000);
 		        driver.findElement(By.xpath("(//input[@placeholder='Password'])[2]")).sendKeys(ExcelUtilityLib.getKeyValue(LoginCredentials, "Login-Password", "Valid-Password"));
 		       
 		        zenmate.checkButton();
 		        zenmate.submitButton();
-		        Thread.sleep(5000);
+		        Thread.sleep(2000);
 		        ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
 		        driver.switchTo().window(tabs2.get(1));
 		        driver.close();
@@ -65,8 +66,16 @@ public class BaseLib {
 		        driver.manage().window().maximize();
 		        WaitStatementLib.threadSleepOfFourSec();
 		        WaitStatementLib.pageLoadTime(driver);
-		        driver.get(" https://testbroker-v2.opaluw.com");      
-		        	       
+		        WaitStatementLib.threadSleepOfEightSec();
+		        //driver.get("https://www.dofe.org/"); 
+		       
+		        driver.get(ExcelUtilityLib.getKeyValue(LoginCredentials, "TestBroker", "Valid-URL"));
+//		        }else {		       
+//			         driver = new ChromeDriver();
+//			         driver.manage().window().maximize();
+//		        driver.get(ExcelUtilityLib.getKeyValue(LoginCredentials, "Dofe", "Valid-URL"));
+//		        }
+	       
 //			}
 //			else{
 //				if(browserName.equalsIgnoreCase("ie")){

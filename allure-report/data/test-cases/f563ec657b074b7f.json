@@ -1,0 +1,954 @@
+{
+  "uid" : "f563ec657b074b7f",
+  "name" : "vacantBuildingPremiumVerfification",
+  "fullName" : "com.testbroker.scripts.VacantBuildingTest.vacantBuildingPremiumVerfification",
+  "historyId" : "50405fa48c129fa9ec4fd198145d0298",
+  "time" : {
+    "start" : 1591783349951,
+    "stop" : 1591783565822,
+    "duration" : 215871
+  },
+  "description" : "Test Case Description: To verify when user is able to login with correct username and passowrd",
+  "descriptionHtml" : "<p>Test Case Description: To verify when user is able to login with correct username and passowrd</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "preCondition",
+    "time" : {
+      "start" : 1591783295260,
+      "stop" : 1591783349620,
+      "duration" : 54360
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "1.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591783315968,
+        "stop" : 1591783316234,
+        "duration" : 266
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "2.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591783318554,
+        "stop" : 1591783318722,
+        "duration" : 168
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "emailField",
+        "value" : "kalpana.kaushik@impactqa.com"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "4.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591783320848,
+        "stop" : 1591783320905,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "5.Click on Proceed to Dashboard step....",
+      "time" : {
+        "start" : 1591783320905,
+        "stop" : 1591783320955,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: To verify when user is able to login with correct username and passowrd",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "User has clicked on Proceed to Dashboard button....",
+      "time" : {
+        "start" : 1591783349974,
+        "stop" : 1591783350144,
+        "duration" : 170
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the username: testuser2@aegislondon.co.uk successfully....",
+      "time" : {
+        "start" : 1591783350208,
+        "stop" : 1591783405053,
+        "duration" : 54845
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "testuser2@aegislondon.co.uk"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the password: q961Vj7?8Bwg successfully....",
+      "time" : {
+        "start" : 1591783405082,
+        "stop" : 1591783407224,
+        "duration" : 2142
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "q961Vj7?8Bwg"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on login button....",
+      "time" : {
+        "start" : 1591783407224,
+        "stop" : 1591783411298,
+        "duration" : 4074
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on authorize button to land on login screen step....",
+      "time" : {
+        "start" : 1591783411298,
+        "stop" : 1591783419401,
+        "duration" : 8103
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on Get A Quotes....",
+      "time" : {
+        "start" : 1591783419431,
+        "stop" : 1591783434480,
+        "duration" : 15049
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on vacant building icon....",
+      "time" : {
+        "start" : 1591783434482,
+        "stop" : 1591783435508,
+        "duration" : 1026
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on vacant icon....",
+      "time" : {
+        "start" : 1591783435603,
+        "stop" : 1591783439191,
+        "duration" : 3588
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783439192,
+        "stop" : 1591783439375,
+        "duration" : 183
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on inception date field....",
+      "time" : {
+        "start" : 1591783439376,
+        "stop" : 1591783439530,
+        "duration" : 154
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has select the current date from the calendar....",
+      "time" : {
+        "start" : 1591783439530,
+        "stop" : 1591783439744,
+        "duration" : 214
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783439745,
+        "stop" : 1591783439878,
+        "duration" : 133
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on Yes button....",
+      "time" : {
+        "start" : 1591783439880,
+        "stop" : 1591783440173,
+        "duration" : 293
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Target Price Field :10000....",
+      "time" : {
+        "start" : 1591783440278,
+        "stop" : 1591783444622,
+        "duration" : 4344
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "value",
+        "value" : "10000"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783444623,
+        "stop" : 1591783444790,
+        "duration" : 167
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Full Name : Henry Smith....",
+      "time" : {
+        "start" : 1591783444818,
+        "stop" : 1591783457034,
+        "duration" : 12216
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "fullname",
+        "value" : "Henry Smith"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the mailing address....",
+      "time" : {
+        "start" : 1591783457059,
+        "stop" : 1591783467323,
+        "duration" : 10264
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "address",
+        "value" : "Canada Way"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has selected the checked for manually entering the address....",
+      "time" : {
+        "start" : 1591783467325,
+        "stop" : 1591783473517,
+        "duration" : 6192
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the street Number :567....",
+      "time" : {
+        "start" : 1591783473542,
+        "stop" : 1591783477657,
+        "duration" : 4115
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "street",
+        "value" : "567"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Zip Code :V5G....",
+      "time" : {
+        "start" : 1591783477674,
+        "stop" : 1591783481819,
+        "duration" : 4145
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "zip",
+        "value" : "V5G"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783481820,
+        "stop" : 1591783482022,
+        "duration" : 202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has selected the checked for manually entering the address....",
+      "time" : {
+        "start" : 1591783482260,
+        "stop" : 1591783486373,
+        "duration" : 4113
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on Use entered mailing address checkbox....",
+      "time" : {
+        "start" : 1591783486374,
+        "stop" : 1591783486485,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the street Number :567....",
+      "time" : {
+        "start" : 1591783486506,
+        "stop" : 1591783490643,
+        "duration" : 4137
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "street",
+        "value" : "567"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has enter the Zip Code :V5G....",
+      "time" : {
+        "start" : 1591783490663,
+        "stop" : 1591783494812,
+        "duration" : 4149
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "zip",
+        "value" : "V5G"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591783494812,
+        "stop" : 1591783494823,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on No option for builiding Vacant for 12 months option....",
+      "time" : {
+        "start" : 1591783494823,
+        "stop" : 1591783494914,
+        "duration" : 91
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on No option for demolition during the policy period....",
+      "time" : {
+        "start" : 1591783494914,
+        "stop" : 1591783495003,
+        "duration" : 89
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783495004,
+        "stop" : 1591783495139,
+        "duration" : 135
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects Frame/Timber option from Construction Type....",
+      "time" : {
+        "start" : 1591783495140,
+        "stop" : 1591783499331,
+        "duration" : 4191
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 1-4 from FUS score dropdown....",
+      "time" : {
+        "start" : 1591783499331,
+        "stop" : 1591783503621,
+        "duration" : 4290
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User entered Total Insured Value: 1000....",
+      "time" : {
+        "start" : 1591783503642,
+        "stop" : 1591783511903,
+        "duration" : 8261
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "totalvalue",
+        "value" : "1000"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects first option:1000$ for deductible required ",
+      "time" : {
+        "start" : 1591783511904,
+        "stop" : 1591783514017,
+        "duration" : 2113
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects :Under 15 years from Building Age ",
+      "time" : {
+        "start" : 1591783514019,
+        "stop" : 1591783516119,
+        "duration" : 2100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on All Risks option for Required Cover level",
+      "time" : {
+        "start" : 1591783516119,
+        "stop" : 1591783518216,
+        "duration" : 2097
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783518217,
+        "stop" : 1591783518374,
+        "duration" : 157
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects No for insurance cancelled previously",
+      "time" : {
+        "start" : 1591783518374,
+        "stop" : 1591783520466,
+        "duration" : 2092
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 0 as previous losses",
+      "time" : {
+        "start" : 1591783520467,
+        "stop" : 1591783522558,
+        "duration" : 2091
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 0 as mortgages secured",
+      "time" : {
+        "start" : 1591783522558,
+        "stop" : 1591783526649,
+        "duration" : 4091
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User has clicked on next button....",
+      "time" : {
+        "start" : 1591783526650,
+        "stop" : 1591783526765,
+        "duration" : 115
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects Yes for general liability cover ",
+      "time" : {
+        "start" : 1591783526765,
+        "stop" : 1591783528833,
+        "duration" : 2068
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Scroll down....",
+      "time" : {
+        "start" : 1591783528834,
+        "stop" : 1591783528844,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects 0 for GL claims",
+      "time" : {
+        "start" : 1591783528844,
+        "stop" : 1591783530946,
+        "duration" : 2102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects amount 1000,000$ for General Liability limit",
+      "time" : {
+        "start" : 1591783530947,
+        "stop" : 1591783533067,
+        "duration" : 2120
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects amount 1000$ for General Liability deductible",
+      "time" : {
+        "start" : 1591783533068,
+        "stop" : 1591783535153,
+        "duration" : 2085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on Get Quote button... ",
+      "time" : {
+        "start" : 1591783535154,
+        "stop" : 1591783537267,
+        "duration" : 2113
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks on checkbox to confirm",
+      "time" : {
+        "start" : 1591783537268,
+        "stop" : 1591783539345,
+        "duration" : 2077
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User clicks to proceed button",
+      "time" : {
+        "start" : 1591783539345,
+        "stop" : 1591783541501,
+        "duration" : 2156
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User verifies Gross Amount generated",
+      "time" : {
+        "start" : 1591783541502,
+        "stop" : 1591783557754,
+        "duration" : 16252
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "The value has been highlighted",
+      "time" : {
+        "start" : 1591783557754,
+        "stop" : 1591783559791,
+        "duration" : 2037
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 50,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "postCondition",
+    "time" : {
+      "start" : 1591783565884,
+      "stop" : 1591783565884,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testbroker.scripts.VacantBuildingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testbroker.scripts.VacantBuildingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "vacantBuildingPremiumVerfification"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testbroker.scripts.VacantBuildingTest"
+  }, {
+    "name" : "host",
+    "value" : "Shubham-Verma"
+  }, {
+    "name" : "thread",
+    "value" : "22544@Shubham-Verma.TestNG-test=Test-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check login page functionality"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f563ec657b074b7f.json",
+  "parameterValues" : [ ]
+}
