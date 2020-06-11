@@ -2,33 +2,27 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[The amount of gross value is expected]]>
-    </line>
-    <line>
       <![CDATA[Browser closed]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="253310" started-at="2020-06-10T15:48:42 IST" finished-at="2020-06-10T15:52:56 IST">
+  <suite name="Suite" duration-ms="92093" started-at="2020-06-11T13:42:39 IST" finished-at="2020-06-11T13:44:11 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="253310" started-at="2020-06-10T15:48:42 IST" finished-at="2020-06-10T15:52:56 IST">
-      <class name="com.testbroker.scripts.VacantBuildingTest">
-        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.testbroker.scripts.VacantBuildingTest@6b85300e]" name="preCondition" is-config="true" duration-ms="57182" started-at="2020-06-10T15:48:42 IST" finished-at="2020-06-10T15:49:40 IST">
+    <test name="Test" duration-ms="92093" started-at="2020-06-11T13:42:39 IST" finished-at="2020-06-11T13:44:11 IST">
+      <class name="com.testbroker.scripts.AegisLondonTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.testbroker.scripts.AegisLondonTest@433e536f]" name="preCondition" is-config="true" duration-ms="58342" started-at="2020-06-11T13:42:39 IST" finished-at="2020-06-11T13:43:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="vacantBuildingPremiumVerfification()[pri:1, instance:com.testbroker.scripts.VacantBuildingTest@6b85300e]" name="vacantBuildingPremiumVerfification" duration-ms="195772" started-at="2020-06-10T15:49:40 IST" finished-at="2020-06-10T15:52:56 IST">
+        <test-method status="PASS" signature="vacantBuildingPremiumVerfification()[pri:1, instance:com.testbroker.scripts.AegisLondonTest@433e536f]" name="vacantBuildingPremiumVerfification" duration-ms="33490" started-at="2020-06-11T13:43:37 IST" finished-at="2020-06-11T13:44:11 IST">
           <reporter-output>
-            <line>
-              <![CDATA[The amount of gross value is expected]]>
-            </line>
           </reporter-output>
         </test-method> <!-- vacantBuildingPremiumVerfification -->
-        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.testbroker.scripts.VacantBuildingTest@6b85300e]" name="postCondition" is-config="true" duration-ms="4" started-at="2020-06-10T15:52:56 IST" finished-at="2020-06-10T15:52:56 IST">
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.testbroker.scripts.AegisLondonTest@433e536f]" name="postCondition" is-config="true" duration-ms="6" started-at="2020-06-11T13:44:11 IST" finished-at="2020-06-11T13:44:11 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=vacantBuildingPremiumVerfification status=SUCCESS method=VacantBuildingTest.vacantBuildingPremiumVerfification()[pri:1, instance:com.testbroker.scripts.VacantBuildingTest@6b85300e] output=The amount of gross value is expected]]]>
+                <![CDATA[[TestResult name=vacantBuildingPremiumVerfification status=SUCCESS method=AegisLondonTest.vacantBuildingPremiumVerfification()[pri:1, instance:com.testbroker.scripts.AegisLondonTest@433e536f] output={null}]]]>
               </value>
             </param>
           </params>
@@ -38,7 +32,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- postCondition -->
-      </class> <!-- com.testbroker.scripts.VacantBuildingTest -->
+      </class> <!-- com.testbroker.scripts.AegisLondonTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

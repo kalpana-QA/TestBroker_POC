@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
   <test thread-count="5" name="Test(failed)" parallel="methods">
     <classes>
-      <class name="com.testbroker.scripts.VacantBuildingTest">
+      <class name="com.testbroker.scripts.AegisLondonTest">
         <methods>
           <include name="vacantBuildingPremiumVerfification"/>
           <include name="preCondition"/>
           <include name="postCondition"/>
         </methods>
-      </class> <!-- com.testbroker.scripts.VacantBuildingTest -->
+      </class> <!-- com.testbroker.scripts.AegisLondonTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
