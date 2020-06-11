@@ -25,7 +25,7 @@ import com.testbroker.pageobject.ZenmateVPNPage;
 
 public class BaseLib {
 	public WebDriver driver;
-	//String project="TestBroker";
+	String project="TestBrokerw";
 	public static Logger logger;
 	static final String LoginCredentials = "LoginCredentials_Sheet";
 
@@ -42,7 +42,7 @@ public class BaseLib {
 //		else{
 //			if (browserName.equalsIgnoreCase("chrome")){
 				System.setProperty("webdriver.chrome.driver", ".\\exefiles\\chromedriver.exe");
-				// if(project.equalsIgnoreCase("TestBroker")){
+				 if(project.equalsIgnoreCase("TestBroker")){
 				ChromeOptions options = new ChromeOptions();
 		        options.addExtensions(new File(".\\exefiles\\ZenmateExtension.crx"));
 		         driver = new ChromeDriver(options);
@@ -70,11 +70,11 @@ public class BaseLib {
 		        //driver.get("https://www.dofe.org/"); 
 		       
 		        driver.get(ExcelUtilityLib.getKeyValue(LoginCredentials, "TestBroker", "Valid-URL"));
-//		        }else {		       
-//			         driver = new ChromeDriver();
-//			         driver.manage().window().maximize();
-//		        driver.get(ExcelUtilityLib.getKeyValue(LoginCredentials, "Dofe", "Valid-URL"));
-//		        }
+		        }else {		       
+			         driver = new ChromeDriver();
+			         driver.manage().window().maximize();
+		        driver.get(ExcelUtilityLib.getKeyValue(LoginCredentials, "AegisLodon", "Valid-URL"));
+		        }
 	       
 //			}
 //			else{
