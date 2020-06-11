@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 import com.testbroker.generic.BaseLib;
 import com.testbroker.pageobject.AegisLodonPage;
+import com.testbroker.pageobject.BuildingCoverPage;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
@@ -24,11 +25,12 @@ public class VacantBuildingTest extends BaseLib {
 	public void verifyOfficeLocation() throws InterruptedException, IOException, IllegalStateException, InvalidFormatException{
 		logger.info("URL is opened");
 		AegisLodonPage aiges= new AegisLodonPage(driver);
+		//BuildingCoverPage cover= new BuildingCoverPage(driver);
 		aiges.contactUs();
 		aiges.enquiryLink();
 		aiges.officeLocation();
 		aiges.MediaContacts();
-		aiges.complaintLink();
+		//aiges.complaintLink();
 }
 }
 }

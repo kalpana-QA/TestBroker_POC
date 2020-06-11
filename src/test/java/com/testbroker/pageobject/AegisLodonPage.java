@@ -2,10 +2,12 @@ package com.testbroker.pageobject;
 
 import java.util.ArrayList;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 import com.testbroker.generic.WaitStatementLib;
 
@@ -28,7 +30,7 @@ public class AegisLodonPage {
 	private WebElement complaint;
 	 WebDriver driver;
 
-	
+	 
 	public AegisLodonPage(WebDriver driver){
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
@@ -38,7 +40,7 @@ public class AegisLodonPage {
 		contactus.click();
 
 	}
-	@Step("User has clicked on contact us....")
+	@Step("User has clicked on enquiry link....")
 	public void enquiryLink() throws InterruptedException{
 		WaitStatementLib.threadSleepOfEightSec();
         //driver.close();
@@ -46,23 +48,37 @@ public class AegisLodonPage {
 		enquiry.click();
 
 	}
-	@Step("User has clicked on contact us....")
+	@Step("User has clicked on office location....")
 	public void officeLocation() throws InterruptedException{
-		
-		ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
-        driver.switchTo().window(tabs2.get(2));
         WaitStatementLib.threadSleepOfEightSec();
+        String actualOfficeLoc=officelocation.getText();
 		officelocation.click();
-
+		AssertDataWithMultipleWindows(actualOfficeLoc);
 	}
-	@Step("User has clicked on contact us....")
-	public void MediaContacts(){
+	@Step("User has clicked on media Contacts....")
+	public void MediaContacts() throws InterruptedException{
+		WaitStatementLib.threadSleepOfEightSec();
+	    String actualMediaContact=mediacontact.getText();
 		mediacontact.click();
-
+		AssertDataWithMultipleWindows(actualMediaContact);
 	}
 	@Step("User has clicked on contact us....")
-	public void complaintLink(){
+	public void complaintLink() throws InterruptedException{
+		WaitStatementLib.threadSleepOfEightSec();
+		String actualComplaintsText=complaint.getText();
 		complaint.click();
-
+		AssertDataWithMultipleWindows(actualComplaintsText);
 	}
+	
+	public void AssertDataWithMultipleWindows(String datatoAssert){
+		String parentWindow=driver.getWindowHandle();
+		for(String childWindow:driver.getWindowHandles()){
+			driver.switchTo().window(childWindow);
+		}
+        String PageTitle=driver.getTitle();
+        Assert.assertTrue(PageTitle.contains(datatoAssert));
+        driver.switchTo().window(parentWindow);
+	}
+	
+	
 }
