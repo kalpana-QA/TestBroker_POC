@@ -24,8 +24,8 @@ public class VacantLandTest extends BaseLib{
 	static final String LoginCredentials = "LoginCredentials_Sheet";
 	@Test(priority=1)
 	@Severity(SeverityLevel.BLOCKER)
-	@Description("Test Case Description: To verify when user is able to login with correct username and passowrd")
-	@Story("Story Name: To check login page functionality")
+	@Description("Test Case Description: To verify gross value when user select the vacant land option")
+	@Story("Story Name: Vacant Land Verification")
 	public void vacantLandPremiumVerfification() throws EncryptedDocumentException, InvalidFormatException, InterruptedException, IOException {
 	
 VacantLandPage land= new VacantLandPage(driver);

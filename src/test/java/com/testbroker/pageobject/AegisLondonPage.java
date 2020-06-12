@@ -57,7 +57,7 @@ public class AegisLondonPage {
 		AssertDataWithMultipleWindows(actualOfficeLoc);
 		Reporter.log("User has successfully land on office location page", true);
 	}
-	@Step("The value has been highlighted")
+	@Step("The address has been highlighted and verified")
 	public  void highLightElement() {
 
 		try {

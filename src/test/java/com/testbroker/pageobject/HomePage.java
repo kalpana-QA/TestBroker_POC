@@ -24,15 +24,15 @@ public class HomePage {
 	}
 	@Step("User has clicked on Get A Quotes....")
 	public void getQuotesClick() throws InterruptedException{
-		//WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, getAQuotes);
+		WaitStatementLib.explicitlyWaitForClickable(driver, 40, getAQuotes);
 		WaitStatementLib.threadSleepOfEightSec();
-		getAQuotes.click();;
+		getAQuotes.click();
 
 	}
 	@Step("User has clicked on vacant building icon....")
 	public void vacantIconClick(){
 		WaitStatementLib.explicitlyWaitVisibilityOf(driver, 40, vacantIcon);
-		vacantIcon.click();;
+		vacantIcon.click();
 
 	}
 }

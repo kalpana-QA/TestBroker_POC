@@ -31,7 +31,6 @@ public class BaseLib {
 
 @BeforeSuite
 public void reportClean() {
-//FileUtils.cleanDirectory(System); 
 }
 	@BeforeMethod
 	//@Parameters(value={"browser"})
@@ -66,7 +65,9 @@ public void reportClean() {
 		        ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
 		        driver.switchTo().window(tabs2.get(1));
 		        driver.close();
+		        Thread.sleep(4000);
 		        driver.switchTo().window(tabs2.get(0));
+		        //driver.close();
 		        driver.manage().window().maximize();
 		        WaitStatementLib.threadSleepOfFourSec();
 		        WaitStatementLib.pageLoadTime(driver);

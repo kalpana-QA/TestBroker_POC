@@ -26,7 +26,6 @@ public class AegisLondonTest extends BaseLib {
 		page.enquiryLink();
 		page.officeLocation();
 		page.highLightElement();
-		//page.MediaContacts();
-		//page.complaintLink();
+		
 }
 }
